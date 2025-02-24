@@ -1,0 +1,3432 @@
+sigla_uf,id_municipio,municipio,tecnologia,capacidade_backhaul
+AC,1200054,Assis Brasil,Satelite,2
+AC,1200328,Jordão,Satelite,2
+AC,1200435,Santa Rosa do Purus,Satelite,2
+AM,1300102,Anori,Satelite,4
+AM,1300607,Benjamin Constant,Satelite,4
+AM,1300706,Boca do Acre,Satelite,4
+AM,1301407,Eirunepé,Satelite,4
+AM,1301506,Envira,Satelite,2
+AM,1301605,Fonte Boa,Satelite,4
+AM,1303007,Nhamundá,Satelite,4
+AM,1303205,Novo Airão,Satelite,2
+AM,1303502,Pauini,Satelite,2
+AM,1303908,São Paulo de Olivença,Satelite,4
+AM,1304005,Silves,Satelite,2
+AM,1304260,Uarini,Satelite,2
+PA,1501576,Bom Jesus do Tocantins,Satelite,4
+PA,1501758,Brejo Grande do Araguaia,Satelite,2
+PA,1502939,Dom Eliseu,Fibra,32
+PA,1502954,Eldorado do Carajás,Fibra,16
+PA,1506401,Santa Cruz do Arari,Satelite,2
+PA,1507458,São Geraldo do Araguaia,Satelite,4
+AP,1600055,Serra do Navio,Satelite,2
+AP,1600154,Pedra Branca do Amapari,Satelite,2
+AP,1600212,Cutias,Satelite,2
+AP,1600238,Ferreira Gomes,Satelite,2
+AP,1600535,Porto Grande,Satelite,2
+AP,1600709,Tartarugalzinho,Fibra,37
+MA,2103406,Coelho Neto,Radio,32
+MA,2103505,Colinas,Fibra,32
+MA,2103703,Cururupu,Radio,32
+MA,2104073,Feira Nova do Maranhão,Satelite,2
+MA,2105401,Itapecuru Mirim,Fibra,64
+MA,2105708,Lago da Pedra,Radio,32
+MA,2111573,São Pedro dos Crentes,Satelite,2
+MA,2112704,Vargem Grande,Fibra,32
+MA,2112803,Viana,Radio,32
+PI,2201200,Barras,Radio,32
+PI,2211100,União,Radio,32
+CE,2300200,Acaraú,Fibra,64
+CE,2302206,Beberibe,Fibra,32
+CE,2304707,Granja,Fibra,32
+CE,2305209,Hidrolândia,Radio,16
+CE,2305803,Ipu,Radio,32
+CE,2305902,Ipueiras,Radio,32
+CE,2306553,Itarema,Fibra,32
+CE,2308104,Mauriti,Radio,32
+CE,2310506,Pedra Branca,Fibra,32
+CE,2312205,Santa Quitéria,Radio,32
+CE,2312304,São Benedito,Fibra,32
+CE,2312403,São Gonçalo do Amarante,Fibra,32
+CE,2313302,Tauá,Radio,32
+CE,2313500,Trairi,Radio,32
+CE,2314003,Várzea Alegre,Fibra,32
+CE,2314102,Viçosa do Ceará,Radio,32
+RN,2412203,São José de Mipibu,Fibra,32
+PB,2503704,Cajazeiras,Fibra,100
+PE,2602100,Bom Conselho,Radio,32
+PE,2602605,Brejo da Madre de Deus,Radio,32
+PE,2602803,Buíque,Radio,32
+PE,2605459,Fernando de Noronha,Satelite,2
+PE,2610608,Paudalho,Fibra,32
+PE,2613008,São Bento do Una,Radio,32
+AL,2709301,União dos Palmares,Radio,64
+SE,2807105,Simão Dias,Radio,32
+SE,2807402,Tobias Barreto,Radio,32
+BA,2902906,Barra do Choça,Radio,32
+BA,2910503,Entre Rios,Fibra,32
+BA,2910701,Euclides da Cunha,Fibra,100
+BA,2918456,Jucuruçu,Satelite,2
+BA,2919801,Macaúbas,Radio,32
+BA,2920452,Mansidão,Satelite,2
+BA,2931905,Tucano,Radio,32
+ES,3205101,Viana,Fibra,64
+RJ,3304755,São Francisco de Itabapoana,Radio,32
+MT,5103106,Cocalinho,Satelite,2
+MT,5103858,Gaúcha do Norte,Satelite,2
+MT,5107578,Rondolândia,Satelite,2
+MT,5107743,Santa Cruz do Xingu,Satelite,2
+MT,5107792,Santo Antônio do Leste,Satelite,2
+MT,5107941,Tabaporã,Satelite,2
+MT,5108907,Nova Maringá,Satelite,2
+AM,1300029,Alvarães,Satelite,2
+AM,1300060,Amaturá,Satelite,2
+AM,1300086,Anamã,Satelite,2
+AM,1300144,Apuí,Satelite,2
+AM,1300201,Atalaia do Norte,Satelite,2
+AM,1300300,Autazes,Satelite,4
+AM,1300409,Barcelos,Satelite,4
+AM,1300508,Barreirinha,Satelite,4
+AM,1300680,Boa Vista do Ramos,Satelite,0
+AM,1300805,Borba,Satelite,4
+AM,1300839,Caapiranga,Satelite,0
+AM,1300904,Canutama,Satelite,2
+AM,1301001,Carauari,Satelite,4
+AM,1301100,Careiro,Satelite,0
+AM,1301159,Careiro da Várzea,Satelite,4
+AM,1301209,Coari,Satelite,0
+AM,1301308,Codajás,Satelite,0
+AM,1301654,Guajará,Satelite,2
+AM,1301704,Humaitá,Satelite,0
+AM,1301803,Ipixuna,Satelite,4
+AM,1301902,Itacoatiara,Satelite,0
+AM,1301951,Itamarati,Satelite,2
+AM,1302009,Itapiranga,Satelite,2
+AM,1302108,Japurá,Satelite,2
+AM,1302207,Juruá,Satelite,0
+AM,1302306,Jutaí,Satelite,2
+AM,1302405,Lábrea,Satelite,8
+AM,1302504,Manacapuru,Satelite,0
+AM,1302702,Manicoré,Satelite,0
+AM,1302801,Maraã,Satelite,2
+AM,1302900,Maués,Radio,64
+AM,1303106,Nova Olinda do Norte,Satelite,4
+AM,1303304,Novo Aripuanã,Satelite,2
+AM,1303403,Parintins,Satelite,16
+AM,1303569,Rio Preto da Eva,Satelite,4
+AM,1303601,Santa Isabel do Rio Negro,Satelite,4
+AM,1303700,Santo Antônio do Içá,Satelite,4
+AM,1303809,São Gabriel da Cachoeira,Satelite,8
+AM,1303957,São Sebastião do Uatumã,Satelite,2
+AM,1304062,Tabatinga,Satelite,0
+AM,1304104,Tapauá,Satelite,2
+AM,1304203,Tefé,Satelite,0
+AM,1304237,Tonantins,Satelite,2
+AM,1304302,Urucará,Satelite,2
+AM,1304401,Urucurituba,Satelite,4
+RR,1400027,Amajari,Satelite,2
+RR,1400050,Alto Alegre,Satelite,2
+RR,1400233,Caroebe,Satelite,8
+RR,1400407,Normandia,Satelite,0
+RR,1400456,Pacaraima,Satelite,0
+RR,1400506,São João da Baliza,Satelite,0
+RR,1400605,São Luiz,Satelite,0
+RR,1400704,Uiramutã,Satelite,2
+PA,1500305,Afuá,Satelite,4
+PA,1500347,Água Azul do Norte,Fibra,16
+PA,1500404,Alenquer,Satelite,32
+PA,1500503,Almeirim,Satelite,4
+PA,1500701,Anajás,Satelite,4
+PA,1500859,Anapu,Satelite,16
+PA,1501006,Aveiro,Satelite,2
+PA,1501105,Bagre,Satelite,0
+PA,1501253,Bannach,Satelite,2
+PA,1501725,Brasil Novo,Satelite,4
+PA,1501808,Breves,Satelite,0
+PA,1502103,Cametá,Satelite,0
+PA,1502509,Chaves,Satelite,4
+PA,1502707,Conceição do Araguaia,Fibra,32
+PA,1502764,Cumaru do Norte,Satelite,0
+PA,1502855,Curuá,Radio,8
+PA,1503002,Faro,Satelite,8
+PA,1503044,Floresta do Araguaia,Satelite,0
+PA,1503093,Goianésia do Pará,Satelite,4
+PA,1503101,Gurupá,Satelite,0
+PA,1503606,Itaituba,Satelite,0
+PA,1503754,Jacareacanga,Satelite,8
+PA,1503804,Jacundá,Satelite,32
+PA,1503903,Juruti,Satelite,8
+PA,1504455,Medicilândia,Satelite,4
+PA,1504505,Melgaço,Satelite,0
+PA,1504604,Mocajuba,Satelite,0
+PA,1504802,Monte Alegre,Satelite,8
+PA,1504950,Nova Esperança do Piriá,Satelite,4
+PA,1504976,Nova Ipixuna,Radio,8
+PA,1505031,Novo Progresso,Satelite,0
+PA,1505064,Novo Repartimento,Satelite,0
+PA,1505106,Óbidos,Satelite,0
+PA,1505205,Oeiras do Pará,Satelite,0
+PA,1505304,Oriximiná,Satelite,0
+PA,1505437,Ourilândia do Norte,Fibra,16
+PA,1505486,Pacajá,Satelite,32
+PA,1505494,Palestina do Pará,Satelite,2
+PA,1505635,Piçarra,Satelite,0
+PA,1505650,Placas,Satelite,4
+PA,1505809,Portel,Satelite,0
+PA,1505908,Porto de Moz,Satelite,4
+PA,1506138,Redenção,Satelite,0
+PA,1506187,Rondon do Pará,Fibra,32
+PA,1506195,Rurópolis,Satelite,4
+PA,1506583,Santa Maria das Barreiras,Satelite,2
+PA,1506708,Santana do Araguaia,Satelite,0
+PA,1507151,São Domingos do Araguaia,Radio,64
+PA,1507805,Senador José Porfírio,Satelite,0
+PA,1507953,Tailândia,Fibra,64
+PA,1507979,Terra Santa,Fibra,8
+PA,1508001,Tomé-Açu,Radio,64
+PA,1508050,Trairão,Satelite,2
+PA,1508084,Tucumã,Satelite,0
+PA,1508357,Vitória do Xingu,Satelite,32
+PA,1508407,Xinguara,Fibra,32
+AP,1600105,Amapá,Satelite,2
+AP,1600204,Calçoene,Satelite,0
+AP,1600279,Laranjal do Jari,Satelite,32
+AP,1600501,Oiapoque,Fibra,16
+AP,1600550,Pracuúba,Satelite,0
+AP,1600808,Vitória do Jari,Satelite,0
+SP,3500204,Adolfo,Radio + Fibra + SDH-NG,8
+SP,3500550,Águas de Santa Bárbara,Fibra + SDH-NG,8
+SP,3500758,Alambari,Fibra + SDH-NG,8
+SP,3500808,Alfredo Marcondes,Fibra + SDH-NG,8
+SP,3500907,Altair,Radio + Fibra + SDH-NG,8
+SP,3501103,Alto Alegre,Fibra + SDH-NG,8
+SP,3501202,Álvares Florence,Radio + Fibra + SDH-NG,8
+SP,3501400,Álvaro de Carvalho,Fibra + SDH-NG,8
+SP,3501509,Alvinlândia,Radio + Fibra + SDH-NG,8
+SP,3501806,Américo de Campos,Radio + Fibra + SDH-NG,8
+SP,3502002,Analândia,Radio + Fibra + SDH-NG,8
+SP,3502309,Anhembi,Radio + Fibra + SDH-NG,8
+SP,3502408,Anhumas,Fibra + SDH-NG,8
+SP,3502606,Aparecida d'Oeste,Fibra + SDH-NG,8
+SP,3503109,Arandu,Fibra + SDH-NG,8
+SP,3503158,Arapeí,Radio + Fibra + SDH-NG,8
+SP,3503356,Arco-Íris,Radio + Fibra + SDH-NG,8
+SP,3503505,Areias,Radio + Fibra + SDH-NG,8
+SP,3503703,Ariranha,Fibra + SDH-NG,8
+SP,3503950,Aspásia,Fibra + SDH-NG,8
+SP,3504305,Avaí,Fibra + SDH-NG,8
+SP,3504701,Balbinos,Fibra + SDH-NG,8
+SP,3504800,Bálsamo,Fibra + SDH-NG,8
+SP,3504909,Bananal,Radio + SDH-NG,8
+SP,3505005,Barão de Antonina,Radio + Fibra + SDH-NG,8
+SP,3505104,Barbosa,Radio + Fibra + SDH-NG,8
+SP,3505351,Barra do Chapéu,Radio + Fibra + SDH-NG,8
+SP,3505401,Barra do Turvo,Radio + Fibra + SDH-NG,8
+SP,3506201,Bento de Abreu,Fibra + SDH-NG,8
+SP,3506904,Bofete,Radio + Fibra + SDH-NG,8
+SP,3507159,Bom Sucesso de Itararé,Fibra + SDH-NG,8
+SP,3507209,Borá,Fibra + SDH-NG,8
+SP,3507308,Boracéia,Radio + Fibra + SDH-NG,8
+SP,3507456,Borebi,Fibra + SDH-NG,8
+SP,3507704,Braúna,Fibra + SDH-NG,8
+SP,3507753,Brejo Alegre,Radio + Fibra + SDH-NG,8
+SP,3508306,Cabrália Paulista,Radio + Fibra + SDH-NG,8
+SP,3508900,Caiabu,Radio + Fibra + SDH-NG,8
+SP,3509106,Caiuá,Fibra + SDH-NG,8
+SP,3509452,Campina do Monte Alegre,Radio + Fibra + SDH-NG,8
+SP,3509809,Campos Novos Paulista,Radio + Fibra + SDH-NG,8
+SP,3509957,Canas,Fibra + SDH-NG,8
+SP,3510104,Cândido Rodrigues,Fibra + SDH-NG,8
+SP,3510153,Canitar,Fibra + SDH-NG,8
+SP,3510302,Capela do Alto,Fibra + SDH-NG,8
+SP,3511201,Catiguá,Fibra + SDH-NG,8
+SP,3511300,Cedral,Fibra + SDH-NG,8
+SP,3511904,Clementina,Fibra + SDH-NG,8
+SP,3512506,Coroados,Fibra + SDH-NG,8
+SP,3512605,Coronel Macedo,Fibra + SDH-NG,8
+SP,3512704,Corumbataí,Fibra + SDH-NG,8
+SP,3512902,Cosmorama,Fibra + SDH-NG,8
+SP,3513207,Cristais Paulista,Radio + Fibra + SDH-NG,8
+SP,3513306,Cruzália,Radio + Fibra + SDH-NG,8
+SP,3513850,Dirce Reis,Fibra + SDH-NG,8
+SP,3514007,Dobrada,Fibra + SDH-NG,8
+SP,3514205,Dolcinópolis,Fibra + SDH-NG,8
+SP,3514700,Echaporã,Radio + Fibra + SDH-NG,8
+SP,3514924,Elisiário,Fibra + SDH-NG,8
+SP,3514957,Embaúba,Fibra + SDH-NG,8
+SP,3515129,Emilianópolis,Fibra + SDH-NG,8
+SP,3515194,Espírito Santo do Turvo,Radio + Fibra + SDH-NG,8
+SP,3515301,Estrela do Norte,Radio + Fibra + SDH-NG,8
+SP,3515350,Euclides da Cunha Paulista,Fibra + SDH-NG,8
+SP,3515608,Fernando Prestes,Fibra + SDH-NG,8
+SP,3515657,Fernão,Radio + Fibra + SDH-NG,8
+SP,3515806,Flora Rica,Fibra + SDH-NG,8
+SP,3515905,Floreal,Fibra + SDH-NG,8
+SP,3516101,Florínia,Radio + Fibra + SDH-NG,8
+SP,3516507,Gabriel Monteiro,Fibra + SDH-NG,8
+SP,3516606,Gália,Fibra + SDH-NG,8
+SP,3516804,Gastão Vidigal,Fibra + SDH-NG,8
+SP,3516853,Gavião Peixoto,Fibra + SDH-NG,8
+SP,3517109,Glicério,Fibra + SDH-NG,8
+SP,3517307,Guaimbê,Fibra + SDH-NG,8
+SP,3517604,Guapiara,Radio + Fibra + SDH-NG,16
+SP,3517901,Guaraci,Fibra + SDH-NG,8
+SP,3518008,Guarani d'Oeste,Radio + Fibra + SDH-NG,8
+SP,3518107,Guarantã,Radio + Fibra + SDH-NG,8
+SP,3518909,Guzolândia,Fibra + SDH-NG,8
+SP,3519006,Herculândia,Fibra + SDH-NG,8
+SP,3519204,Iacri,Fibra + SDH-NG,8
+SP,3519253,Iaras,Radio + Fibra + SDH-NG,8
+SP,3519402,Ibirá,Fibra + SDH-NG,8
+SP,3519501,Ibirarema,Fibra + SDH-NG,8
+SP,3519808,Icém,Radio + Fibra + SDH-NG,8
+SP,3519907,Iepê,Radio + Fibra + SDH-NG,8
+SP,3520202,Igaratá,Fibra + SDH-NG,8
+SP,3520608,Indiana,Fibra + SDH-NG,8
+SP,3520707,Indiaporã,Radio + Fibra + SDH-NG,8
+SP,3520806,Inúbia Paulista,Fibra + SDH-NG,8
+SP,3521150,Ipiguá,Fibra + SDH-NG,8
+SP,3521200,Iporanga,Radio + Fibra + SDH-NG,8
+SP,3521507,Irapuã,Fibra + SDH-NG,8
+SP,3522000,Itaju,Fibra + SDH-NG,8
+SP,3522158,Itaóca,Radio + Fibra + SDH-NG,8
+SP,3522653,Itapirapuã Paulista,Radio + Fibra + SDH-NG,8
+SP,3522802,Itaporanga,Radio + SDH-NG,8
+SP,3523008,Itapura,Fibra + SDH-NG,8
+SP,3523701,Itirapuã,Radio + Fibra + SDH-NG,8
+SP,3523800,Itobi,Fibra + SDH-NG,8
+SP,3524204,Jaborandi,Fibra + SDH-NG,8
+SP,3524501,Jaci,Fibra + SDH-NG,8
+SP,3524907,Jambeiro,Radio + Fibra + SDH-NG,8
+SP,3525409,Jeriquara,Fibra + SDH-NG,8
+SP,3525607,João Ramalho,Fibra + SDH-NG,8
+SP,3525805,Júlio Mesquita,Fibra + SDH-NG,8
+SP,3525854,Jumirim,Fibra + SDH-NG,8
+SP,3526308,Lagoinha,Radio + Fibra + SDH-NG,8
+SP,3526506,Lavínia,Fibra + SDH-NG,8
+SP,3526605,Lavrinhas,Fibra + SDH-NG,8
+SP,3527256,Lourdes,Fibra + SDH-NG,8
+SP,3527504,Lucianópolis,Radio + Fibra + SDH-NG,8
+SP,3527603,Luís Antônio,Fibra + SDH-NG,8
+SP,3527702,Luiziânia,Fibra + SDH-NG,8
+SP,3527801,Lupércio,Radio + Fibra + SDH-NG,8
+SP,3527900,Lutécia,Radio + Fibra + SDH-NG,8
+SP,3528205,Macedônia,Fibra + SDH-NG,8
+SP,3528304,Magda,Fibra + SDH-NG,8
+SP,3528601,Manduri,Fibra + SDH-NG,8
+SP,3528700,Marabá Paulista,Radio + Fibra + SDH-NG,8
+SP,3528858,Marapoama,Fibra + SDH-NG,8
+SP,3528908,Mariápolis,Fibra + SDH-NG,8
+SP,3529104,Marinópolis,Fibra + SDH-NG,8
+SP,3529500,Mendonça,Radio + Fibra + SDH-NG,8
+SP,3529609,Meridiano,Fibra + SDH-NG,8
+SP,3529658,Mesópolis,Radio + Fibra + SDH-NG,8
+SP,3530003,Mira Estrela,Radio + Fibra + SDH-NG,8
+SP,3530409,Mirassolândia,Fibra + SDH-NG,8
+SP,3530904,Mombuca,Fibra + SDH-NG,8
+SP,3531001,Monções,Radio + Fibra + SDH-NG,8
+SP,3531605,Monte Castelo,Fibra + SDH-NG,8
+SP,3531704,Monteiro Lobato,Radio + Fibra + SDH-NG,8
+SP,3532058,Motuca,Radio + Fibra + SDH-NG,8
+SP,3532108,Murutinga do Sul,Fibra + SDH-NG,8
+SP,3532157,Nantes,Radio + Fibra + SDH-NG,8
+SP,3532207,Narandiba,Radio + Fibra + SDH-NG,8
+SP,3532306,Natividade da Serra,Radio + Fibra + SDH-NG,8
+SP,3532504,Neves Paulista,Fibra + SDH-NG,8
+SP,3532702,Nipoã,Fibra + SDH-NG,8
+SP,3532801,Nova Aliança,Fibra + SDH-NG,8
+SP,3532827,Nova Campina,Radio + Fibra + SDH-NG,8
+SP,3532843,Nova Canaã Paulista,Radio + Fibra + SDH-NG,8
+SP,3532868,Nova Castilho,Radio + Fibra + SDH-NG,8
+SP,3532900,Nova Europa,Fibra + SDH-NG,8
+SP,3533106,Nova Guataporanga,Fibra + SDH-NG,8
+SP,3533205,Nova Independência,Radio + Fibra + SDH-NG,8
+SP,3533254,Novais,Radio + Fibra + SDH-NG,8
+SP,3533304,Nova Luzitânia,Fibra + SDH-NG,8
+SP,3533700,Ocauçu,Fibra + SDH-NG,8
+SP,3533809,Óleo,Fibra + SDH-NG,8
+SP,3534005,Onda Verde,Radio + Fibra + SDH-NG,8
+SP,3534104,Oriente,Fibra + SDH-NG,8
+SP,3534203,Orindiúva,Radio + Fibra + SDH-NG,8
+SP,3534500,Oscar Bressane,Radio + Fibra + SDH-NG,8
+SP,3534757,Ouroeste,Radio + Fibra + SDH-NG,8
+SP,3534807,Ouro Verde,Fibra + SDH-NG,8
+SP,3535101,Palmares Paulista,Fibra + SDH-NG,8
+SP,3535705,Paraíso,Fibra + SDH-NG,8
+SP,3535903,Paranapuã,Radio + Fibra + SDH-NG,8
+SP,3536109,Pardinho,Radio + Fibra + SDH-NG,8
+SP,3536257,Parisi,Fibra + SDH-NG,8
+SP,3536307,Patrocínio Paulista,Radio + Fibra + SDH-NG,8
+SP,3536406,Paulicéia,Fibra + SDH-NG,8
+SP,3536570,Paulistânia,Radio + Fibra + SDH-NG,8
+SP,3536604,Paulo de Faria,Radio + Fibra + SDH-NG,8
+SP,3536802,Pedra Bela,Fibra + SDH-NG,8
+SP,3536901,Pedranópolis,Fibra + SDH-NG,8
+SP,3537008,Pedregulho,Fibra + SDH-NG,8
+SP,3537156,Pedrinhas Paulista,Fibra + SDH-NG,8
+SP,3537503,Pereiras,Fibra + SDH-NG,8
+SP,3537701,Piacatu,Fibra + SDH-NG,8
+SP,3538303,Piquerobi,Fibra + SDH-NG,8
+SP,3539608,Planalto,Radio + Fibra + SDH-NG,8
+SP,3539707,Platina,Radio + Fibra + SDH-NG,8
+SP,3539905,Poloni,Fibra + SDH-NG,8
+SP,3540101,Pongaí,Fibra + SDH-NG,8
+SP,3540259,Pontalinda,Radio + Fibra + SDH-NG,8
+SP,3540309,Pontes Gestal,Radio + Fibra + SDH-NG,8
+SP,3540408,Populina,Radio + Fibra + SDH-NG,8
+SP,3540507,Porangaba,Radio + Fibra + SDH-NG,8
+SP,3540853,Pracinha,Radio + Fibra + SDH-NG,8
+SP,3541059,Pratânia,Fibra + SDH-NG,8
+SP,3541109,Presidente Alves,Fibra + SDH-NG,8
+SP,3541653,Quadra,Radio + Fibra + SDH-NG,8
+SP,3541802,Queiroz,Fibra + SDH-NG,8
+SP,3542008,Quintana,Fibra + SDH-NG,8
+SP,3542305,Redenção da Serra,Radio + Fibra + SDH-NG,8
+SP,3542503,Reginópolis,Fibra + SDH-NG,8
+SP,3542701,Restinga,Radio + Fibra + SDH-NG,8
+SP,3542800,Ribeira,Radio + Fibra + SDH-NG,8
+SP,3543006,Ribeirão Branco,Radio + Fibra + SDH-NG,16
+SP,3543204,Ribeirão do Sul,Radio + Fibra + SDH-NG,8
+SP,3543238,Ribeirão dos Índios,Radio + Fibra + SDH-NG,8
+SP,3543253,Ribeirão Grande,Radio + Fibra + SDH-NG,8
+SP,3543501,Riversul,Radio + Fibra + SDH-NG,8
+SP,3543600,Rifaina,Fibra + SDH-NG,8
+SP,3544202,Riolândia,Radio + Fibra + SDH-NG,8
+SP,3544400,Rubiácea,Fibra + SDH-NG,8
+SP,3544509,Rubinéia,Fibra + SDH-NG,8
+SP,3544608,Sabino,Radio + Fibra + SDH-NG,8
+SP,3544707,Sagres,Fibra + SDH-NG,8
+SP,3544806,Sales,Radio + Fibra + SDH-NG,8
+SP,3545100,Salmourão,Fibra + SDH-NG,8
+SP,3545407,Salto Grande,Fibra + SDH-NG,8
+SP,3545506,Sandovalina,Radio + Fibra + SDH-NG,8
+SP,3545704,Santa Albertina,Radio + Fibra + SDH-NG,8
+SP,3546108,Santa Clara d'Oeste,Fibra + SDH-NG,8
+SP,3546207,Santa Cruz da Conceição,Fibra + SDH-NG,8
+SP,3546504,Santa Ernestina,Fibra + SDH-NG,8
+SP,3546900,Santa Lúcia,Fibra + SDH-NG,8
+SP,3547007,Santa Maria da Serra,Fibra + SDH-NG,8
+SP,3547106,Santa Mercedes,Fibra + SDH-NG,8
+SP,3547205,Santana da Ponte Pensa,Fibra + SDH-NG,8
+SP,3547403,Santa Rita d'Oeste,Fibra + SDH-NG,8
+SP,3547650,Santa Salete,Fibra + SDH-NG,8
+SP,3548054,Santo Antônio do Aracanguá,Radio + Fibra + SDH-NG,8
+SP,3548302,Santo Expedito,Fibra + SDH-NG,8
+SP,3548401,Santópolis do Aguapeí,Fibra + SDH-NG,8
+SP,3549003,São Francisco,Fibra + SDH-NG,8
+SP,3549201,São João das Duas Pontes,Fibra + SDH-NG,8
+SP,3549250,São João de Iracema,Radio + Fibra + SDH-NG,8
+SP,3549300,São João do Pau d'Alho,Fibra + SDH-NG,8
+SP,3549508,São José da Bela Vista,Radio + Fibra + SDH-NG,8
+SP,3549607,São José do Barreiro,Radio + Fibra + SDH-NG,8
+SP,3550506,São Pedro do Turvo,Radio + Fibra + SDH-NG,8
+SP,3551207,Sarutaiá,Fibra + SDH-NG,8
+SP,3551306,Sebastianópolis do Sul,Fibra + SDH-NG,8
+SP,3551405,Serra Azul,Radio + Fibra + SDH-NG,8
+SP,3552007,Silveiras,Radio + Fibra + SDH-NG,8
+SP,3552304,Sud Mennucci,Radio + Fibra + SDH-NG,8
+SP,3552551,Suzanápolis,Radio + Fibra + SDH-NG,8
+SP,3552601,Tabapuã,Radio + Fibra + SDH-NG,8
+SP,3552908,Taciba,Fibra + SDH-NG,8
+SP,3553005,Taguaí,Radio + Fibra + SDH-NG,8
+SP,3553104,Taiaçu,Radio + Fibra + SDH-NG,8
+SP,3553203,Taiúva,Radio + Fibra + SDH-NG,8
+SP,3553500,Tapiraí,Radio + Fibra + SDH-NG,8
+SP,3553658,Taquaral,Radio + Fibra + SDH-NG,8
+SP,3553856,Taquarivaí,Radio + Fibra + SDH-NG,8
+SP,3553906,Tarabai,Fibra + SDH-NG,8
+SP,3554201,Tejupá,Radio + Fibra + SDH-NG,8
+SP,3554607,Timburi,Radio + Fibra + SDH-NG,8
+SP,3554656,Torre de Pedra,Radio + Fibra + SDH-NG,8
+SP,3554755,Trabiju,Fibra + SDH-NG,8
+SP,3554904,Três Fronteiras,Fibra + SDH-NG,8
+SP,3554953,Tuiuti,Fibra + SDH-NG,8
+SP,3555208,Turiúba,Fibra + SDH-NG,8
+SP,3555307,Turmalina,Radio + Fibra + SDH-NG,8
+SP,3555356,Ubarana,Fibra + SDH-NG,8
+SP,3555505,Ubirajara,Radio + Fibra + SDH-NG,8
+SP,3555703,União Paulista,Fibra + SDH-NG,8
+SP,3555901,Uru,Radio + Fibra + SDH-NG,8
+SP,3556107,Valentim Gentil,Fibra + SDH-NG,8
+SP,3556909,Vista Alegre do Alto,Radio + Fibra + SDH-NG,8
+SP,3556958,Vitória Brasil,Fibra + SDH-NG,8
+SP,3557154,Zacarias,Fibra + SDH-NG,8
+RS,4314548,Pinto Bandeira,Radio,8
+AC,1200252,Epitaciolândia,Radio,8
+AC,1200393,Porto Walter,Radio,8
+AM,1300631,Beruri,Satelite,4
+PA,1502152,Canaã dos Carajás,Satelite,4
+PA,1504109,Magalhães Barata,Radio,8
+PA,1506005,Prainha,Satelite,4
+PA,1506906,Santarém Novo,Radio,8
+PA,1507466,São João da Ponta,Radio,8
+PA,1507961,Terra Alta,Radio,8
+TO,1700251,Abreulândia,Radio,8
+TO,1703073,Barra do Ouro,Radio,8
+TO,1703305,Bom Jesus do Tocantins,Radio,8
+TO,1703826,Cachoeirinha,Radio,8
+TO,1703883,Carmolândia,Radio,8
+TO,1703891,Carrasco Bonito,Fibra,8
+TO,1704105,Centenário,Radio,8
+TO,1704600,Chapada de Areia,Radio,8
+TO,1705102,Chapada da Natividade,Fibra,8
+TO,1706258,Crixás do Tocantins,Fibra,8
+TO,1708304,Goianorte,Radio,8
+TO,1709807,Ipueiras,Radio,8
+TO,1711506,Jaú do Tocantins,Fibra,8
+TO,1711803,Juarina,Radio,8
+TO,1711951,Lagoa do Tocantins,Radio,8
+TO,1712157,Lavandeira,Radio,8
+TO,1712405,Lizarda,Radio,8
+TO,1712454,Luzinópolis,Fibra,8
+TO,1713700,Monte Santo do Tocantins,Radio,8
+TO,1713957,Muricilândia,Radio,8
+TO,1715259,Novo Jardim,Radio,8
+TO,1715507,Oliveira de Fátima,Fibra,8
+TO,1715705,Palmeirante,Radio,8
+TO,1717206,Piraquê,Radio,8
+TO,1718659,Rio da Conceição,Radio,8
+TO,1718758,Rio Sono,Radio,8
+TO,1718808,Sampaio,Radio,8
+TO,1718840,Sandolândia,Radio,8
+TO,1718899,Santa Rita do Tocantins,Fibra,8
+TO,1719004,Santa Tereza do Tocantins,Radio,8
+TO,1720002,Santa Terezinha do Tocantins,Radio,8
+TO,1720101,São Bento do Tocantins,Fibra,8
+TO,1720150,São Félix do Tocantins,Radio,8
+TO,1720200,São Miguel do Tocantins,Radio,8
+TO,1720853,Sucupira,Radio,8
+TO,1720937,Taipas do Tocantins,Radio,8
+TO,1721257,Tupirama,Fibra,8
+MA,2100501,Alto Parnaíba,Fibra,8
+MA,2101350,Bacurituba,Radio,8
+MA,2101806,Benedito Leite,Fibra,8
+MA,2102150,Brejo de Areia,Radio,8
+MA,2102374,Cachoeira Grande,Radio,8
+MA,2105351,Itaipava do Grajaú,Radio,8
+MA,2105450,Jatobá,Radio,8
+MA,2105609,Joselândia,Radio,8
+MA,2106359,Marajá do Sena,Radio,8
+MA,2107308,Nova Iorque,Radio,8
+MA,2109056,Porto Rico do Maranhão,Fibra,8
+MA,2109403,Primeira Cruz,Radio,8
+MA,2109700,Sambaíba,Radio,8
+MA,2109759,Santa Filomena do Maranhão,Radio,8
+MA,2110906,São Francisco do Maranhão,Fibra,8
+MA,2111250,São José dos Basílios,Fibra,8
+MA,2111631,São Raimundo do Doca Bezerra,Radio,8
+MA,2111953,Sucupira do Riachão,Radio,8
+PI,2200053,Acauã,Radio,8
+PI,2200251,Alagoinha do Piauí,Radio,8
+PI,2200459,Alvorada do Gurguéia,Radio,8
+PI,2200954,Aroeiras do Itaim,Radio,8
+PI,2201051,Assunção do Piauí,Radio,8
+PI,2201556,Bela Vista do Piauí,Radio,8
+PI,2201739,Betânia do Piauí,Radio,8
+PI,2201770,Boa Hora,Radio,8
+PI,2201919,Bom Princípio do Piauí,Radio,8
+PI,2201988,Brejo do Piauí,Radio,8
+PI,2202026,Buriti dos Montes,Radio,8
+PI,2202059,Cabeceiras do Piauí,Radio,8
+PI,2202075,Cajazeiras do Piauí,Radio,8
+PI,2202091,Caldeirão Grande do Piauí,Radio,8
+PI,2202109,Campinas do Piauí,Radio,8
+PI,2202117,Campo Alegre do Fidalgo,Radio,8
+PI,2202133,Campo Grande do Piauí,Fibra,8
+PI,2202174,Campo Largo do Piauí,Radio,8
+PI,2202251,Canavieira,Radio,8
+PI,2202455,Capitão Gervásio Oliveira,Radio,8
+PI,2202539,Caraúbas do Piauí,Radio,8
+PI,2202554,Caridade do Piauí,Radio,8
+PI,2202729,Cocal dos Alves,Radio,8
+PI,2202737,Coivaras,Radio,8
+PI,2202851,Coronel José Dias,Radio,8
+PI,2203255,Curralinhos,Radio,8
+PI,2203271,Curral Novo do Piauí,Radio,8
+PI,2203354,Dirceu Arcoverde,Radio,8
+PI,2203420,Domingos Mourão,Radio,8
+PI,2203750,Fartura do Piauí,Radio,8
+PI,2203859,Floresta do Piauí,Radio,8
+PI,2204105,Francisco Ayres,Radio,8
+PI,2204352,Geminiano,Fibra,8
+PI,2204550,Guaribas,Radio,8
+PI,2204600,Hugo Napoleão,Radio,8
+PI,2204907,Isaías Coelho,Radio,8
+PI,2205151,Jacobina do Piauí,Radio,8
+PI,2205276,Jatobá do Piauí,Radio,8
+PI,2205359,João Costa,Radio,8
+PI,2205458,Joca Marques,Radio,8
+PI,2205516,Juazeiro do Piauí,Radio,8
+PI,2205524,Júlio Borges,Radio,8
+PI,2205532,Jurema,Radio,8
+PI,2205540,Lagoinha do Piauí,Fibra,8
+PI,2205557,Lagoa Alegre,Radio,8
+PI,2205565,Lagoa do Barro do Piauí,Radio,8
+PI,2205573,Lagoa de São Francisco,Radio,8
+PI,2205581,Lagoa do Piauí,Fibra,8
+PI,2205599,Lagoa do Sítio,Radio,8
+PI,2206050,Massapê do Piauí,Radio,8
+PI,2206308,Miguel Leão,Radio,8
+PI,2206357,Milton Brandão,Radio,8
+PI,2206670,Morro do Chapéu do Piauí,Radio,8
+PI,2206696,Murici dos Portelas,Radio,8
+PI,2206720,Nazária,Radio,8
+PI,2206753,Nossa Senhora de Nazaré,Radio,8
+PI,2206951,Novo Santo Antônio,Radio,8
+PI,2207108,Olho D'Água do Piauí,Fibra,8
+PI,2207306,Paes Landim,Radio,8
+PI,2207553,Paquetá,Radio,8
+PI,2207751,Passagem Franca do Piauí,Fibra,8
+PI,2207777,Patos do Piauí,Radio,8
+PI,2207793,Pau D'Arco do Piauí,Radio,8
+PI,2207850,Pavussu,Radio,8
+PI,2207934,Pedro Laurentino,Radio,8
+PI,2207959,Nova Santa Rita,Radio,8
+PI,2208551,Porto Alegre do Piauí,Radio,8
+PI,2209153,Santa Cruz dos Milagres,Radio,8
+PI,2209450,Santo Antônio dos Milagres,Radio,8
+PI,2209500,Santo Inácio do Piauí,Radio,8
+PI,2209559,São Braz do Piauí,Radio,8
+PI,2209658,São Francisco de Assis do Piauí,Radio,8
+PI,2209757,São Gonçalo do Gurguéia,Radio,8
+PI,2209807,São Gonçalo do Piauí,Radio,8
+PI,2209872,São João da Fronteira,Radio,8
+PI,2209955,São João da Varjota,Radio,8
+PI,2209971,São João do Arraial,Radio,8
+PI,2210102,São José do Peixe,Radio,8
+PI,2210359,São Lourenço do Piauí,Radio,8
+PI,2210375,São Luis do Piauí,Radio,8
+PI,2210383,São Miguel da Baixa Grande,Radio,8
+PI,2210631,Sebastião Leal,Radio,8
+PI,2210938,Sussuapara,Fibra,8
+PI,2210953,Tamboril do Piauí,Radio,8
+PI,2210979,Tanque do Piauí,Radio,8
+PI,2211357,Várzea Branca,Radio,8
+PI,2211605,Vila Nova do Piauí,Fibra,8
+PI,2211704,Wall Ferraz,Radio,8
+CE,2301406,Aratuba,Radio,8
+CE,2305704,Ipaumirim,Radio,8
+CE,2310407,Paramoti,Radio,8
+CE,2311231,Potiretama,Radio,8
+CE,2312502,São João do Jaguaribe,Radio,8
+CE,2313252,Tarrafas,Radio,8
+RN,2401503,Barcelona,Radio,8
+RN,2401651,Bodó,Radio,8
+RN,2402808,Coronel Ezequiel,Radio,8
+RN,2403707,Felipe Guerra,Radio,8
+RN,2403756,Fernando Pedroza,Radio,8
+RN,2403806,Florânia,Radio,8
+RN,2404101,Galinhos,Radio,8
+RN,2404606,Ielmo Marinho,Radio,8
+RN,2404804,Ipueira,Radio,8
+RN,2405009,Jaçanã,Radio,8
+RN,2405207,Janduís,Radio,8
+RN,2405504,Jardim de Angicos,Radio,8
+RN,2406155,Jundiá,Radio,8
+RN,2406403,Lagoa de Velhos,Radio,8
+RN,2406908,Lucrécia,Radio,8
+RN,2407609,Messias Targino,Radio,8
+RN,2407906,Monte das Gameleiras,Radio,8
+RN,2408953,Rio do Fogo,Radio,8
+RN,2409332,Santa Maria,Fibra,8
+RN,2409605,Pedra Preta,Radio,8
+RN,2410256,Porto do Mangue,Radio,8
+RN,2411106,Ruy Barbosa,Radio,8
+RN,2411429,Santana do Seridó,Radio,8
+RN,2411809,São Fernando,Radio,8
+RN,2413102,Senador Elói de Souza,Radio,8
+RN,2413359,Serra do Mel,Radio,8
+RN,2413508,Serrinha,Fibra,8
+RN,2413706,Sítio Novo,Radio,8
+RN,2414159,Tenente Laurentino Cruz,Radio,8
+RN,2414456,Triunfo Potiguar,Radio,8
+RN,2414902,Viçosa,Radio,8
+PB,2500536,Alcantil,Radio,8
+PB,2500734,Amparo,Radio,8
+PB,2500775,Aparecida,Radio,8
+PB,2501153,Areia de Baraúnas,Radio,8
+PB,2501534,Baraúna,Radio,8
+PB,2502201,Bom Jesus,Radio,8
+PB,2502409,Bonito de Santa Fé,Radio,8
+PB,2503308,Cachoeira dos Índios,Radio,8
+PB,2503407,Cacimba de Areia,Radio,8
+PB,2503555,Cacimbas,Radio,8
+PB,2504074,Caraúbas,Radio,8
+PB,2504157,Casserengue,Radio,8
+PB,2504355,Caturité,Radio,8
+PB,2504504,Condado,Radio,8
+PB,2504702,Congo,Radio,8
+PB,2505279,Curral de Cima,Radio,8
+PB,2505303,Curral Velho,Radio,8
+PB,2505352,Damião,Radio,8
+PB,2505907,Emas,Radio,8
+PB,2507804,Junco do Seridó,Radio,8
+PB,2508554,Logradouro,Radio,8
+PB,2509057,Marcação,Radio,8
+PB,2509339,Matinhas,Radio,8
+PB,2509396,Maturéia,Radio,8
+PB,2509602,Monte Horebe,Radio,8
+PB,2510659,Parari,Radio,8
+PB,2511103,Pedra Lavrada,Radio,8
+PB,2512200,Prata,Radio,8
+PB,2512606,Quixabá,Radio,8
+PB,2512721,Pedro Régis,Radio,8
+PB,2512762,Riachão do Poço,Radio,8
+PB,2512788,Riacho de Santo Antônio,Radio,8
+PB,2513109,Salgado de São Félix,Radio,8
+PB,2513158,Santa Cecília,Radio,8
+PB,2513505,Santana de Mangueira,Radio,8
+PB,2513604,Santana dos Garrotes,Radio,8
+PB,2513802,Santa Teresinha,Radio,8
+PB,2513851,Santo André,Radio,8
+PB,2513927,São Bentinho,Radio,8
+PB,2513968,São Domingos,Radio,8
+PB,2514453,São José dos Ramos,Radio,8
+PB,2514552,São José de Princesa,Radio,8
+PB,2514602,São José do Bonfim,Radio,8
+PB,2514701,São José do Sabugi,Radio,8
+PB,2514800,São José dos Cordeiros,Radio,8
+PB,2515005,São Miguel de Taipu,Radio,8
+PB,2515708,Serra Grande,Radio,8
+PB,2516409,Tacima,Radio,8
+PB,2516607,Tavares,Radio,8
+PB,2516755,Tenório,Radio,8
+PB,2517100,Várzea,Radio,8
+PE,2601003,Angelim,Fibra,8
+PE,2602407,Brejão,Radio,8
+PE,2602506,Brejinho,Radio,8
+PE,2602704,Buenos Aires,Radio,8
+PE,2603405,Calumbi,Radio,8
+PE,2606507,Iati,Radio,8
+PE,2609154,Manari,Radio,16
+PE,2610301,Paranatama,Radio,8
+PE,2612307,Saloá,Radio,8
+PE,2615102,Terezinha,Radio,8
+AL,2701100,Branquinha,Radio,8
+AL,2702553,Estrela de Alagoas,Radio,8
+AL,2703700,Jaramataia,Radio,8
+AL,2704906,Mar Vermelho,Radio,8
+AL,2705309,Minador do Negrão,Radio,8
+AL,2705903,Olho d'Água Grande,Radio,8
+AL,2706604,Paulo Jacinto,Fibra,8
+AL,2707008,Pindoba,Radio,8
+AL,2707206,Poço das Trincheiras,Radio,8
+AL,2707800,Roteiro,Radio,8
+AL,2708105,Santana do Mundaú,Radio,8
+SE,2800100,Amparo de São Francisco,Radio,8
+SE,2800704,Brejo Grande,Radio,8
+SE,2802205,Feira Nova,Radio,8
+SE,2802403,Gararu,Radio,8
+SE,2802601,Gracho Cardoso,Radio,8
+SE,2802809,Indiaroba,Fibra,8
+SE,2803807,Malhada dos Bois,Fibra,8
+SE,2805208,Pinhão,Radio,8
+SE,2806909,São Francisco,Fibra,8
+SE,2807006,São Miguel do Aleixo,Radio,8
+SE,2807303,Telha,Radio,8
+BA,2904753,Buritirama,Satelite,4
+BA,2907400,Catolândia,Radio,8
+BA,2911253,Gavião,Radio,8
+BA,2912004,Ibiassucê,Radio,8
+BA,2915353,Itaguaçu da Bahia,Radio,8
+BA,2918704,Lafaiete Coutinho,Radio,8
+BA,2921054,Matina,Radio,8
+BA,2921450,Mirante,Radio,8
+BA,2922250,Muquém de São Francisco,Radio,8
+BA,2922805,Nova Itarana,Fibra,8
+BA,2926509,Ribeira do Amparo,Radio,8
+BA,2929057,São Félix do Coribe,Radio,8
+MG,3105202,Bandeira,Radio,8
+MG,3106655,Berizal,Radio,8
+MG,3109253,Bugre,Radio,8
+MG,3117836,Cônego Marinho,Radio,8
+MG,3118106,Congonhas do Norte,Radio,8
+MG,3120300,Cristália,Radio,8
+MG,3120607,Crucilândia,Radio,8
+MG,3122470,Dom Bosco,Radio,8
+MG,3126505,Francisco Badaró,Radio,8
+MG,3126752,Franciscópolis,Radio,8
+MG,3126950,Frei Lagonegro,Radio,8
+MG,3127073,Fruta de Leite,Radio,8
+MG,3127339,Gameleiras,Radio,8
+MG,3127354,Glaucilândia,Fibra,8
+MG,3129657,Ibiracatu,Radio,8
+MG,3132008,Itacambira,Radio,8
+MG,3136520,José Gonçalves de Minas,Radio,8
+MG,3136579,Josenópolis,Radio,8
+MG,3136801,Juramento,Radio,8
+MG,3138351,Leme do Prado,Radio,8
+MG,3138674,Luisburgo,Radio,8
+MG,3139250,Mamonas,Radio,8
+MG,3140407,Marmelópolis,Radio,8
+MG,3140852,Matias Cardoso,Radio,8
+MG,3142502,Monjolos,Radio,8
+MG,3144656,Ninheira,Radio,8
+MG,3144672,Nova Belém,Radio,8
+MG,3145059,Nova Porteirinha,Radio,8
+MG,3145372,Novorizonte,Radio,8
+MG,3145703,Oliveira Fortes,Radio,8
+MG,3145802,Onça de Pitangui,Radio,8
+MG,3145877,Orizânia,Radio,8
+MG,3146255,Padre Carvalho,Radio,8
+MG,3146552,Pai Pedro,Radio,8
+MG,3150406,Piedade dos Gerais,Radio,8
+MG,3150570,Pintópolis,Radio,8
+MG,3150901,Piranguçu,Radio,8
+MG,3153202,Presidente Juscelino,Radio,8
+MG,3154507,Riacho dos Machados,Radio,8
+MG,3157336,Santa Cruz de Minas,Fibra,8
+MG,3157377,Santa Cruz de Salinas,Radio,8
+MG,3157401,Santa Cruz do Escalvado,Radio,8
+MG,3159407,Santa Rita de Ibitipoca,Radio,8
+MG,3160207,Santo Antônio do Itambé,Radio,8
+MG,3161601,São Geraldo da Piedade,Radio,8
+MG,3162252,São João da Lagoa,Radio,8
+MG,3163607,São José do Mantimento,Radio,8
+MG,3164803,São Sebastião do Rio Preto,Radio,8
+MG,3165552,Setubinha,Radio,8
+MG,3165560,Sem-Peixe,Radio,8
+MG,3165602,Senador Cortes,Fibra,8
+MG,3166402,Seritinga,Fibra,8
+MG,3171154,Vermelho Novo,Radio,8
+MG,3171501,Mathias Lobato,Radio,8
+PR,4101051,Anahy,Radio,8
+PR,4101853,Ariranha do Ivaí,Radio,8
+PR,4102604,Barracão,Fibra,8
+PR,4102752,Bela Vista da Caroba,Radio,8
+PR,4103024,Boa Esperança do Iguaçu,Radio,8
+PR,4103040,Boa Ventura de São Roque,Radio,8
+PR,4103156,Bom Jesus do Sul,Fibra,8
+PR,4106456,Coronel Domingos Soares,Radio,8
+PR,4107520,Esperança Nova,Radio,8
+PR,4107546,Espigão Alto do Iguaçu,Fibra,8
+PR,4108551,Godoy Moreira,Radio,8
+PR,4108957,Guamiranga,Fibra,8
+PR,4110052,Iguatu,Radio,8
+PR,4112603,Jardim Olinda,Fibra,8
+PR,4114351,Manfrinópolis,Fibra,8
+PR,4115739,Mato Rico,Radio,8
+PR,4119251,Pinhal de São Bento,Radio,8
+PR,4120150,Porto Barreiro,Fibra,8
+PR,4121257,Ramilândia,Radio,8
+PR,4123600,Santa Inês,Fibra,8
+PR,4128625,Alto Paraíso,Radio,8
+PR,4128633,Doutor Ulysses,Radio,8
+SC,4202438,Bocaina do Sul,Radio,8
+SC,4207858,Irati,Fibra,8
+SC,4209458,Lajeado Grande,Fibra,8
+SC,4209805,Leoberto Leal,Fibra,8
+SC,4211801,Ouro,Fibra,8
+SC,4215059,Rio Rufino,Fibra,8
+SC,4217758,Sul Brasil,Fibra,8
+RS,4300471,Almirante Tamandaré do Sul,Radio,8
+RS,4300554,Alto Alegre,Radio,8
+RS,4300638,Amaral Ferrador,Radio,8
+RS,4300661,André da Rocha,Radio,8
+RS,4301073,Arroio do Padre,Radio,8
+RS,4301750,Barão do Triunfo,Fibra,8
+RS,4301859,Barra do Guarita,Radio,8
+RS,4301925,Barra do Rio Azul,Radio,8
+RS,4302055,Benjamin Constant do Sul,Radio,8
+RS,4302220,Boa Vista do Cadeado,Radio,8
+RS,4302238,Boa Vista do Incra,Radio,8
+RS,4302378,Bom Progresso,Fibra,8
+RS,4302451,Boqueirão do Leão,Radio,8
+RS,4302584,Bozano,Radio,8
+RS,4304614,Canudos do Vale,Radio,8
+RS,4304622,Capão Bonito do Sul,Radio,8
+RS,4304655,Capão do Cipó,Radio,8
+RS,4304697,Capitão,Fibra,8
+RS,4304713,Caraá,Radio,8
+RS,4304853,Carlos Gomes,Radio,8
+RS,4305116,Centenário,Radio,8
+RS,4305132,Cerro Branco,Radio,8
+RS,4305157,Cerro Grande,Radio,8
+RS,4305173,Cerro Grande do Sul,Radio,8
+RS,4305371,Charrua,Radio,8
+RS,4305447,Chuvisca,Radio,8
+RS,4305835,Coqueiro Baixo,Radio,8
+RS,4305850,Coqueiros do Sul,Radio,8
+RS,4305934,Coronel Pilar,Fibra,8
+RS,4305975,Coxilha,Fibra,8
+RS,4306072,Cristal do Sul,Fibra,8
+RS,4306130,Cruzaltense,Radio,8
+RS,4306320,Derrubadas,Radio,8
+RS,4306353,Dezesseis de Novembro,Radio,8
+RS,4306379,Dilermando de Aguiar,Radio,8
+RS,4306429,Dois Irmãos das Missões,Fibra,8
+RS,4306759,Doutor Ricardo,Radio,8
+RS,4306924,Engenho Velho,Fibra,8
+RS,4307450,Esperança do Sul,Radio,8
+RS,4307815,Estrela Velha,Radio,8
+RS,4307831,Eugênio de Castro,Radio,8
+RS,4307864,Fagundes Varela,Fibra,8
+RS,4308052,Faxinalzinho,Radio,8
+RS,4308078,Fazenda Vilanova,Radio,8
+RS,4308250,Floriano Peixoto,Radio,8
+RS,4308433,Forquetinha,Radio,8
+RS,4308656,Garruchos,Radio,8
+RS,4308854,Gentil,Radio,8
+RS,4309126,Gramado dos Loureiros,Radio,8
+RS,4309159,Gramado Xavier,Radio,8
+RS,4309571,Herveiras,Radio,8
+RS,4309951,Ibirapuitã,Radio,8
+RS,4310413,Inhacorá,Fibra,8
+RS,4310462,Ipiranga do Sul,Radio,8
+RS,4310553,Itacurubi,Radio,8
+RS,4310579,Itapuca,Radio,8
+RS,4310652,Itati,Radio,8
+RS,4310702,Itatiba do Sul,Radio,8
+RS,4310876,Jacuizinho,Radio,8
+RS,4311130,Jari,Radio,8
+RS,4311239,Lagoa Bonita do Sul,Radio,8
+RS,4311254,Lagoão,Radio,8
+RS,4311429,Lajeado do Bugre,Radio,8
+RS,4311734,Mampituba,Radio,8
+RS,4311791,Maratá,Radio,8
+RS,4311981,Mariana Pimentel,Radio,8
+RS,4312138,Mato Castelhano,Radio,8
+RS,4312179,Mato Queimado,Radio,8
+RS,4312377,Monte Alegre dos Campos,Radio,8
+RS,4312427,Mormaço,Fibra,8
+RS,4312443,Morrinhos do Sul,Fibra,8
+RS,4312617,Muitos Capões,Radio,8
+RS,4312625,Muliterno,Radio,8
+RS,4312674,Nicolau Vergueiro,Radio,8
+RS,4312955,Nova Boa Vista,Radio,8
+RS,4313011,Nova Candelária,Radio,8
+RS,4313334,Nova Ramada,Radio,8
+RS,4313391,Novo Cabrais,Fibra,8
+RS,4313425,Novo Machado,Fibra,8
+RS,4313441,Novo Tiradentes,Fibra,8
+RS,4313466,Novo Xingu,Radio,8
+RS,4313490,Novo Barreiro,Fibra,8
+RS,4314068,Passa Sete,Radio,8
+RS,4314134,Paulo Bento,Radio,8
+RS,4314175,Pedras Altas,Radio,8
+RS,4314464,Pinhal da Serra,Radio,8
+RS,4314779,Pontão,Radio,8
+RS,4314787,Ponte Preta,Fibra,8
+RS,4315073,Porto Vera Cruz,Radio,8
+RS,4315131,Pouso Novo,Radio,8
+RS,4315313,Quatro Irmãos,Radio,8
+RS,4315321,Quevedos,Radio,8
+RS,4315453,Relvado,Fibra,8
+RS,4315552,Rio dos Índios,Radio,8
+RS,4315958,Rolador,Fibra,8
+RS,4316428,Sagrada Família,Radio,8
+RS,4316477,Salvador das Missões,Fibra,8
+RS,4316733,Santa Cecília do Sul,Radio,8
+RS,4316972,Santa Margarida do Sul,Radio,8
+RS,4317004,Santana da Boa Vista,Radio,8
+RS,4317251,Santa Tereza,Fibra,8
+RS,4317558,Santo Antônio do Palma,Fibra,8
+RS,4317954,Santo Expedito do Sul,Radio,8
+RS,4318457,São José das Missões,Radio,8
+RS,4318465,São José do Herval,Fibra,8
+RS,4318499,São José do Inhacorá,Radio,8
+RS,4318614,São José do Sul,Radio,8
+RS,4318622,São José dos Ausentes,Radio,8
+RS,4319125,São Martinho da Serra,Radio,8
+RS,4319208,São Nicolau,Fibra,8
+RS,4319364,São Pedro das Missões,Radio,8
+RS,4319711,São Valentim do Sul,Fibra,8
+RS,4319737,São Valério do Sul,Radio,8
+RS,4320230,Sede Nova,Radio,8
+RS,4320263,Segredo,Fibra,8
+RS,4320321,Senador Salgado Filho,Radio,8
+RS,4320354,Sentinela do Sul,Fibra,8
+RS,4320453,Sério,Radio,8
+RS,4320578,Sete de Setembro,Fibra,8
+RS,4320602,Severiano de Almeida,Fibra,8
+RS,4320859,Tabaí,Fibra,8
+RS,4321469,Tio Hugo,Fibra,8
+RS,4321477,Tiradentes do Sul,Radio,8
+RS,4321857,Três Palmeiras,Radio,8
+RS,4322152,Tunas,Radio,8
+RS,4322186,Tupanci do Sul,Radio,8
+RS,4322327,Turuçu,Fibra,8
+RS,4322343,Ubiretama,Radio,8
+RS,4322350,União da Serra,Fibra,8
+RS,4322376,Unistalda,Radio,8
+RS,4322525,Vale Verde,Radio,8
+RS,4322855,Vespasiano Correa,Radio,8
+RS,4323358,Vila Lângaro,Radio,8
+RS,4323507,Vista Alegre,Fibra,8
+RS,4323606,Vista Alegre do Prata,Radio,8
+RS,4323705,Vista Gaúcha,Radio,8
+RS,4323754,Vitória das Missões,Radio,8
+RS,4323770,Westfalia,Fibra,8
+MS,5002803,Caracol,Radio,8
+MS,5004809,Japorã,Radio,8
+MT,5101209,Araguainha,Radio,8
+MT,5106174,Nova Nazaré,Radio,8
+MT,5106315,Novo Santo Antônio,Radio,8
+MT,5106653,Pontal do Araguaia,Fibra,8
+MT,5106703,Ponte Branca,Radio,8
+MT,5107156,Reserva do Cabaçal,Fibra,8
+MT,5107198,Ribeirãozinho,Radio,8
+MT,5107750,Salto do Céu,Fibra,8
+MT,5107883,Serra Nova Dourada,Radio,8
+MT,5108857,Nova Marilândia,Radio,8
+GO,5200159,Adelândia,Radio,8
+GO,5200829,Amaralina,Radio,8
+GO,5203104,Baliza,Fibra,8
+GO,5203962,Buritinópolis,Radio,8
+GO,5204854,Campo Limpo de Goiás,Radio,8
+GO,5208152,Gameleira de Goiás,Fibra,8
+GO,5209291,Guaraíta,Radio,8
+GO,5209408,Guarani de Goiás,Radio,8
+GO,5210158,Ipiranga de Goiás,Fibra,8
+GO,5212055,Jesúpolis,Radio,8
+GO,5213053,Mimoso de Goiás,Radio,8
+GO,5214879,Nova Iguaçu de Goiás,Radio,8
+GO,5214903,Nova Roma,Radio,8
+GO,5215256,Novo Planalto,Fibra,8
+GO,5215652,Palestina de Goiás,Radio,8
+GO,5219456,Santa Rita do Novo Destino,Radio,8
+GO,5220280,São Patrício,Radio,8
+GO,5220702,Sítio d'Abadia,Radio,8
+GO,5222302,Vila Propício,Radio,8
+AC,1200351,Marechal Thaumaturgo,Radio,8
+PA,1501600,Bonito,Radio,8
+PA,1503408,Inhangapi,Radio,8
+TO,1700301,Aguiarnópolis,Fibra,8
+TO,1701051,Angico,Fibra,8
+TO,1701101,Aparecida do Rio Negro,Radio,8
+TO,1701309,Aragominas,Radio,8
+TO,1702158,Araguanã,Fibra,8
+TO,1702703,Aurora do Tocantins,Radio,8
+TO,1703057,Bandeirantes do Tocantins,Radio,8
+TO,1703206,Bernardo Sayão,Radio,8
+TO,1703602,Brasilândia do Tocantins,Fibra,8
+TO,1703842,Campos Lindos,Radio,8
+TO,1705607,Conceição do Tocantins,Radio,8
+TO,1706506,Darcinópolis,Fibra,8
+TO,1707306,Dueré,Radio,8
+TO,1707405,Esperantina,Radio,8
+TO,1710904,Itapiratins,Radio,8
+TO,1711100,Itaporã do Tocantins,Radio,8
+TO,1712009,Lajeado,Fibra,8
+TO,1712702,Mateiros,Radio,8
+TO,1712801,Maurilândia do Tocantins,Radio,8
+TO,1713809,Palmeiras do Tocantins,Fibra,8
+TO,1714302,Nazaré,Fibra,8
+TO,1715101,Novo Acordo,Radio,8
+TO,1716307,Pau D'Arco,Radio,8
+TO,1716653,Pequizeiro,Radio,8
+TO,1717008,Pindorama do Tocantins,Radio,8
+TO,1717800,Ponte Alta do Bom Jesus,Fibra,8
+TO,1718006,Porto Alegre do Tocantins,Radio,8
+TO,1718451,Pugmil,Fibra,8
+TO,1718501,Recursolândia,Radio,8
+TO,1718550,Riachinho,Radio,8
+TO,1718709,Rio dos Bois,Fibra,8
+TO,1718881,Santa Maria do Tocantins,Radio,8
+TO,1718907,Santa Rosa do Tocantins,Radio,8
+TO,1720259,São Salvador do Tocantins,Radio,8
+TO,1720309,São Sebastião do Tocantins,Radio,8
+TO,1721307,Tupiratins,Radio,8
+MA,2100105,Afonso Cunha,Radio,8
+MA,2100550,Amapá do Maranhão,Radio,8
+MA,2101103,Axixá,Radio,8
+MA,2101509,Barão de Grajaú,Radio,8
+MA,2101731,Belágua,Radio,8
+MA,2101939,Bernardo do Mearim,Radio,8
+MA,2102408,Cajapió,Radio,8
+MA,2103125,Central do Maranhão,Radio,8
+MA,2104099,Formosa da Serra Negra,Radio,8
+MA,2104701,Graça Aranha,Radio,8
+MA,2105476,Jenipapo dos Vieiras,Radio,8
+MA,2105658,Junco do Maranhão,Fibra,8
+MA,2106672,Milagres do Maranhão,Fibra,8
+MA,2109551,Ribamar Fiquene,Fibra,8
+MA,2110278,Santo Amaro do Maranhão,Radio,8
+MA,2110658,São Domingos do Azeitão,Radio,8
+MA,2111078,São João do Soter,Radio,8
+MA,2111532,São Pedro da Água Branca,Radio,8
+MA,2111672,São Roberto,Radio,8
+MA,2111722,Satubinha,Radio,8
+MA,2111789,Serrano do Maranhão,Radio,8
+MA,2112233,Trizidela do Vale,Fibra,16
+MA,2112274,Tufilândia,Fibra,8
+MA,2112456,Turilândia,Fibra,20
+MA,2112852,Vila Nova dos Martírios,Radio,8
+PI,2200806,Antônio Almeida,Radio,8
+PI,2200905,Aroazes,Radio,8
+PI,2201002,Arraial,Radio,8
+PI,2201309,Barreiras do Piauí,Radio,8
+PI,2201572,Belém do Piauí,Radio,8
+PI,2201804,Bocaina,Fibra,8
+PI,2201929,Bonfim do Piauí,Radio,8
+PI,2201945,Boqueirão do Piauí,Radio,8
+PI,2202653,Caxingó,Radio,8
+PI,2202711,Cocal de Telha,Fibra,8
+PI,2203230,Currais,Radio,8
+PI,2203800,Flores do Piauí,Radio,8
+PI,2204006,Francinópolis,Radio,8
+PI,2204154,Francisco Macedo,Fibra,8
+PI,2205250,Jardim do Mulato,Radio,8
+PI,2205300,Jerumenha,Radio,8
+PI,2205854,Madeiro,Fibra,8
+PI,2205904,Manoel Emídio,Radio,8
+PI,2207355,Pajeú do Piauí,Radio,8
+PI,2208858,Riacho Frio,Radio,8
+PI,2209351,Santana do Piauí,Radio,8
+PI,2209377,Santa Rosa do Piauí,Radio,8
+PI,2209856,São João da Canabrava,Radio,8
+PI,2209906,São João da Serra,Radio,8
+PI,2210904,Socorro do Piauí,Radio,8
+CE,2300101,Abaiara,Radio,8
+CE,2300150,Acarape,Fibra,8
+CE,2300606,Altaneira,Radio,8
+CE,2300903,Apuiarés,Radio,8
+CE,2301802,Baixio,Fibra,8
+CE,2303931,Choró,Fibra,8
+CE,2304269,Deputado Irapuan Pinheiro,Radio,8
+CE,2304277,Ererê,Fibra,8
+CE,2304608,General Sampaio,Radio,8
+CE,2304806,Granjeiro,Radio,8
+CE,2305100,Guaramiranga,Fibra,8
+CE,2305332,Ibicuitinga,Radio,8
+CE,2305654,Ipaporanga,Radio,8
+CE,2306801,Jaguaribara,Radio,8
+CE,2307205,Jati,Fibra,8
+CE,2307635,Madalena,Radio,8
+CE,2308203,Meruoca,Fibra,8
+CE,2309102,Mulungu,Fibra,8
+CE,2310951,Pires Ferreira,Radio,8
+CE,2311108,Porteiras,Radio,8
+CE,2311207,Potengi,Radio,8
+CE,2312106,Santana do Cariri,Fibra,8
+CE,2313351,Tejuçuoca,Radio,8
+CE,2313708,Umari,Fibra,8
+RN,2400604,Almino Afonso,Radio,8
+RN,2401305,Campo Grande,Radio,8
+RN,2401909,Caiçara do Rio do Vento,Radio,8
+RN,2403202,Doutor Severiano,Radio,8
+RN,2403400,Equador,Radio,8
+RN,2404002,Frutuoso Gomes,Radio,8
+RN,2405405,Japi,Radio,8
+RN,2406007,José da Penha,Radio,8
+RN,2407005,Luís Gomes,Radio,8
+RN,2407401,Martins,Radio,8
+RN,2407500,Maxaranguape,Radio,8
+RN,2408706,Paraú,Radio,8
+RN,2408805,Parazinho,Radio,8
+RN,2409209,Passagem,Radio,8
+RN,2409506,Pedra Grande,Radio,8
+RN,2410009,Pilões,Radio,8
+RN,2410108,Poço Branco,Radio,8
+RN,2410405,Pureza,Radio,8
+RN,2410702,Riacho da Cruz,Radio,8
+RN,2411403,Santana do Matos,Radio,8
+RN,2411700,São Bento do Trairí,Radio,8
+RN,2412559,São Miguel do Gostoso,Radio,8
+RN,2412906,São Tomé,Radio,8
+RN,2413300,Serra de São Bento,Radio,8
+RN,2413409,Serra Negra do Norte,Radio,8
+RN,2413557,Serrinha dos Pintos,Fibra,8
+RN,2413805,Taboleiro Grande,Radio,8
+RN,2413904,Taipu,Radio,8
+PB,2500205,Aguiar,Radio,8
+PB,2500700,São João do Rio do Peixe,Radio,8
+PB,2501351,Assunção,Radio,8
+PB,2501575,Barra de Santana,Radio,8
+PB,2501708,Barra de São Miguel,Radio,8
+PB,2502102,Boa Ventura,Radio,8
+PB,2502706,Borborema,Radio,8
+PB,2503605,Caiçara,Radio,8
+PB,2503753,Cajazeirinhas,Radio,8
+PB,2503803,Caldas Brandão,Radio,8
+PB,2503902,Camalaú,Radio,8
+PB,2504033,Capim,Radio,8
+PB,2504207,Catingueira,Radio,8
+PB,2504850,Coxixola,Radio,8
+PB,2505006,Cubati,Radio,8
+PB,2505238,Cuité de Mamanguape,Radio,8
+PB,2505402,Desterro,Radio,8
+PB,2505501,Vista Serrana,Radio,8
+PB,2505600,Diamante,Radio,8
+PB,2506202,Frei Martinho,Radio,8
+PB,2506251,Gado Bravo,Radio,8
+PB,2506707,Imaculada,Radio,8
+PB,2508406,Lastro,Radio,8
+PB,2508505,Livramento,Radio,8
+PB,2508703,Mãe d'Água,Radio,8
+PB,2509008,Manaíra,Radio,8
+PB,2509370,Mato Grosso,Radio,8
+PB,2509404,Mogeiro,Radio,8
+PB,2510006,Nazarezinho,Radio,8
+PB,2510204,Nova Olinda,Radio,8
+PB,2510303,Nova Palmeira,Radio,8
+PB,2510709,Passagem,Radio,8
+PB,2510907,Paulista,Radio,8
+PB,2511608,Pilões,Radio,8
+PB,2511707,Pilõezinhos,Fibra,8
+PB,2512036,Poço Dantas,Radio,8
+PB,2512077,Poço de José de Moura,Radio,8
+PB,2512747,Riachão,Radio,8
+PB,2512754,Riachão do Bacamarte,Fibra,8
+PB,2512804,Riacho dos Cavalos,Radio,8
+PB,2513000,Salgadinho,Radio,8
+PB,2513356,Santa Inês,Radio,8
+PB,2513653,Joca Claudino,Radio,8
+PB,2514008,São João do Cariri,Radio,8
+PB,2514107,São João do Tigre,Radio,8
+PB,2514651,São José do Brejo do Cruz,Radio,8
+PB,2515203,São Sebastião do Umbuzeiro,Radio,8
+PB,2515401,São Vicente do Seridó,Radio,8
+PB,2515609,Serra da Raiz,Radio,8
+PB,2515930,Sertãozinho,Radio,8
+PB,2515971,Sobrado,Fibra,8
+PB,2516706,Teixeira,Radio,8
+PB,2517209,Vieirópolis,Radio,8
+PB,2517407,Zabelê,Radio,8
+PE,2601805,Betânia,Radio,8
+PE,2603306,Calçado,Radio,8
+PE,2603603,Camutanga,Radio,8
+PE,2603801,Capoeiras,Radio,8
+PE,2604809,Cortês,Radio,8
+PE,2606309,Granito,Radio,8
+PE,2606705,Ibirajuba,Radio,8
+PE,2607109,Ingazeira,Radio,8
+PE,2607950,Jaqueira,Radio,8
+PE,2608255,Jucati,Radio,8
+PE,2608602,Lagoa do Ouro,Radio,8
+PE,2611533,Quixaba,Radio,8
+PE,2612109,Salgadinho,Radio,8
+PE,2612455,Santa Cruz,Radio,8
+PE,2612471,Santa Cruz da Baixa Verde,Radio,8
+PE,2612554,Santa Filomena,Radio,8
+PE,2612703,Santa Maria do Cambucá,Radio,8
+PE,2612802,Santa Terezinha,Radio,8
+PE,2612901,São Benedito do Sul,Radio,8
+PE,2615201,Terra Nova,Radio,8
+PE,2616100,Verdejante,Radio,8
+PE,2616183,Vertente do Lério,Radio,8
+AL,2700904,Belo Monte,Radio,8
+AL,2701209,Cacimbinhas,Radio,8
+AL,2701506,Campo Grande,Radio,8
+AL,2701803,Carneiros,Radio,8
+AL,2701902,Chã Preta,Radio,8
+AL,2702504,Dois Riachos,Radio,8
+AL,2702801,Flexeiras,Radio,8
+AL,2703007,Ibateguara,Radio,8
+AL,2703304,Inhapi,Radio,8
+AL,2703403,Jacaré dos Homens,Radio,8
+AL,2703502,Jacuípe,Radio,8
+AL,2703908,Jundiá,Radio,8
+AL,2704609,Maravilha,Radio,8
+AL,2704807,Maribondo,Radio,8
+AL,2706802,Piaçabuçu,Radio,8
+AL,2708204,São Brás,Radio,8
+AL,2708956,Senador Rui Palmeira,Radio,8
+SE,2801900,Cumbe,Radio,8
+SE,2803708,Macambira,Radio,8
+SE,2804201,Monte Alegre de Sergipe,Radio,8
+SE,2805000,Pedra Mole,Radio,8
+SE,2806305,Santa Luzia do Itanhy,Fibra,8
+SE,2806404,Santana do São Francisco,Radio,8
+SE,2806503,Santa Rosa de Lima,Radio,8
+SE,2806602,Santo Amaro das Brotas,Radio,8
+SE,2807501,Tomar do Geru,Radio,8
+BA,2900207,Abaré,Radio,8
+BA,2900603,Aiquara,Radio,8
+BA,2901155,América Dourada,Radio,8
+BA,2901502,Anguera,Radio,8
+BA,2901700,Antônio Cardoso,Radio,8
+BA,2902302,Aratuípe,Radio,8
+BA,2903805,Boa Vista do Tupim,Fibra,8
+BA,2903953,Bom Jesus da Serra,Radio,8
+BA,2904050,Bonito,Radio,8
+BA,2904407,Brejolândia,Radio,8
+BA,2904506,Brotas de Macaúbas,Radio,8
+BA,2905107,Caém,Fibra,8
+BA,2905156,Caetanos,Radio,8
+BA,2905404,Cairu,Radio,8
+BA,2906105,Canápolis,Radio,8
+BA,2906899,Caraíbas,Radio,8
+BA,2907707,Chorrochó,Radio,8
+BA,2908804,Contendas do Sincorá,Radio,8
+BA,2909109,Coribe,Radio,8
+BA,2909505,Cravolândia,Fibra,8
+BA,2910107,Dom Basílio,Radio,8
+BA,2910206,Dom Macedo Costa,Radio,8
+BA,2910776,Feira da Mata,Radio,8
+BA,2911303,Gentio do Ouro,Radio,8
+BA,2911659,Guajeru,Radio,8
+BA,2911857,Heliópolis,Radio,8
+BA,2912608,Ibiquera,Radio,8
+BA,2913002,Ibitiara,Radio,8
+BA,2914307,Iramaia,Radio,8
+BA,2917334,Iuiú,Radio,8
+BA,2918605,Jussiape,Radio,8
+BA,2918753,Lagoa Real,Radio,8
+BA,2919009,Lajedinho,Fibra,8
+BA,2919900,Macururé,Radio,8
+BA,2920205,Malhada,Radio,8
+BA,2922052,Mulungu do Morro,Radio,8
+BA,2922607,Nilo Peçanha,Fibra,8
+BA,2922755,Nova Ibiá,Radio,8
+BA,2924108,Pedrão,Radio,8
+BA,2924207,Pedro Alexandre,Radio,8
+BA,2924678,Piraí do Norte,Radio,8
+BA,2924900,Planaltino,Radio,8
+BA,2925931,Quixabeira,Radio,8
+BA,2928307,Santanópolis,Radio,8
+BA,2930006,Sebastião Laranjeiras,Radio,8
+BA,2930402,Serra Preta,Radio,8
+BA,2933059,Várzea da Roça,Radio,8
+BA,2933109,Várzea do Poço,Radio,8
+BA,2933174,Varzedo,Radio,8
+BA,2933257,Vereda,Radio,8
+MG,3100708,Água Comprida,Radio,8
+MG,3100807,Aguanil,Fibra,8
+MG,3101409,Albertina,Radio,8
+MG,3102407,Alvorada de Minas,Radio,8
+MG,3102852,Angelândia,Radio,8
+MG,3103207,Araçaí,Fibra,8
+MG,3103306,Aracitaba,Radio,8
+MG,3103801,Arapuá,Radio,8
+MG,3104809,Augusto de Lima,Fibra,8
+MG,3106606,Bertópolis,Radio,8
+MG,3107703,Bom Jesus do Amparo,Radio,8
+MG,3108255,Bonito de Minas,Radio,8
+MG,3108800,Braúnas,Radio,8
+MG,3109105,Bueno Brandão,Radio,8
+MG,3109808,Cachoeira Dourada,Radio,8
+MG,3110103,Caiana,Radio,8
+MG,3110400,Camacho,Radio,8
+MG,3111150,Campo Azul,Radio,8
+MG,3111903,Cana Verde,Radio,8
+MG,3113107,Caranaíba,Fibra,8
+MG,3114600,Carrancas,Radio,8
+MG,3114709,Carvalhópolis,Radio,8
+MG,3114907,Casa Grande,Radio,8
+MG,3115003,Cascalho Rico,Radio,8
+MG,3115409,Catas Altas da Noruega,Radio,8
+MG,3115607,Cedro do Abaeté,Radio,8
+MG,3116100,Chapada do Norte,Radio,8
+MG,3116308,Cipotânea,Radio,8
+MG,3116407,Claraval,Radio,8
+MG,3117009,Comercinho,Radio,8
+MG,3117207,Conceição das Pedras,Radio,8
+MG,3118502,Consolação,Radio,8
+MG,3119005,Cordislândia,Radio,8
+MG,3119906,Córrego do Bom Jesus,Fibra,8
+MG,3120102,Couto de Magalhães de Minas,Radio,8
+MG,3122405,Divisa Nova,Radio,8
+MG,3122801,Dom Viçoso,Radio,8
+MG,3123106,Dores de Guanhães,Radio,8
+MG,3123403,Doresópolis,Radio,8
+MG,3123502,Douradoquara,Radio,8
+MG,3123528,Durandé,Radio,8
+MG,3124401,Espírito Santo do Dourado,Radio,8
+MG,3125408,Felício dos Santos,Radio,8
+MG,3125507,São Gonçalo do Rio Preto,Radio,8
+MG,3126406,Fortuna de Minas,Fibra,8
+MG,3126802,Frei Gaspar,Radio,8
+MG,3127404,Gonçalves,Radio,8
+MG,3127909,Grupiara,Radio,8
+MG,3128253,Guaraciama,Radio,8
+MG,3129400,Ibertioga,Radio,8
+MG,3129608,Ibiaí,Radio,8
+MG,3130556,Imbé de Minas,Radio,8
+MG,3130804,Ingaí,Radio,8
+MG,3132800,Itambé do Mato Dentro,Radio,8
+MG,3133907,Itaverava,Radio,8
+MG,3135001,Jaguaraçu,Fibra,8
+MG,3135308,Japaraíba,Radio,8
+MG,3135456,Jenipapo de Minas,Radio,8
+MG,3136108,Joanésia,Radio,8
+MG,3138104,Lassance,Radio,8
+MG,3138658,Lontra,Radio,8
+MG,3138682,Luislândia,Radio,8
+MG,3140530,Martins Soares,Radio,8
+MG,3140605,Materlândia,Radio,8
+MG,3141009,Mato Verde,Radio,8
+MG,3141900,Minduri,Radio,8
+MG,3142007,Mirabela,Radio,8
+MG,3142254,Miravânia,Radio,8
+MG,3143153,Monte Formoso,Radio,8
+MG,3143609,Morro da Garça,Radio,8
+MG,3143708,Morro do Pilar,Radio,8
+MG,3143807,Munhoz,Radio,8
+MG,3144375,Natalândia,Radio,8
+MG,3146750,Palmópolis,Radio,8
+MG,3147501,Passabém,Radio,8
+MG,3148756,Pedra Bonita,Radio,8
+MG,3148806,Pedra do Anta,Radio,8
+MG,3148905,Pedra do Indaiá,Radio,8
+MG,3149150,Pedras de Maria da Cruz,Radio,8
+MG,3150109,Piau,Radio,8
+MG,3150539,Pingo-d'Água,Radio,8
+MG,3152131,Ponto Chique,Radio,8
+MG,3153301,Presidente Kubitschek,Radio,8
+MG,3153806,Queluzito,Radio,8
+MG,3154150,Reduto,Radio,8
+MG,3154457,Riachinho,Radio,8
+MG,3155009,Rio Doce,Radio,8
+MG,3155108,Rio do Prado,Radio,8
+MG,3156452,Rosário da Limeira,Radio,8
+MG,3157609,Santa Fé de Minas,Radio,8
+MG,3158409,Santana de Cataguases,Radio,8
+MG,3158706,Santana do Garambéu,Radio,8
+MG,3160108,Santo Antônio do Grama,Radio,8
+MG,3160454,Santo Antônio do Retiro,Radio,8
+MG,3160959,São Domingos das Dores,Radio,8
+MG,3161403,São Francisco do Glória,Radio,8
+MG,3162302,São João da Mata,Radio,8
+MG,3162450,São João das Missões,Radio,8
+MG,3162948,São José da Barra,Radio,8
+MG,3165503,Sardoá,Radio,8
+MG,3165800,Senador José Bento,Radio,8
+MG,3165909,Senador Modestino Gonçalves,Radio,8
+MG,3166006,Senhora de Oliveira,Radio,8
+MG,3166303,Sericita,Radio,8
+MG,3166600,Serra da Saudade,Radio,8
+MG,3166956,Serranópolis de Minas,Radio,8
+MG,3167301,Silveirânia,Fibra,8
+MG,3167400,Silvianópolis,Radio,8
+MG,3168051,Taparuba,Radio,8
+MG,3168200,Tapiraí,Fibra,8
+MG,3169059,Tocos do Moji,Radio,8
+MG,3169109,Toledo,Radio,8
+MG,3169505,Tumiritinga,Radio,8
+MG,3169802,Turvolândia,Radio,8
+MG,3170479,Uruana de Minas,Radio,8
+MG,3170529,Urucuia,Radio,8
+MG,3170750,Varjão de Minas,Radio,8
+MG,3171030,Verdelândia,Radio,8
+MG,3171105,Veríssimo,Radio,8
+MG,3171907,Virgolândia,Radio,8
+MG,3172202,Wenceslau Braz,Radio,8
+ES,3201803,Divino de São Lourenço,Radio,8
+ES,3202553,Ibitirama,Radio,8
+ES,3203163,Laranja da Terra,Radio,8
+PR,4100459,Altamira do Paraná,Radio,8
+PR,4101655,Arapuã,Radio,8
+PR,4103958,Campina do Simão,Radio,8
+PR,4106852,Cruzmaltina,Fibra,8
+PR,4107736,Fernandes Pinheiro,Fibra,8
+PR,4109104,Guaporema,Radio,8
+PR,4116505,Nova Aliança do Ivaí,Fibra,8
+PR,4121356,Rancho Alegre D'Oeste,Radio,8
+PR,4122172,Rio Branco do Ivaí,Radio,8
+PR,4125555,São Manoel do Paraná,Radio,8
+SC,4210852,Mirim Doce,Fibra,8
+SC,4215687,Santa Terezinha do Progresso,Fibra,8
+SC,4215695,Santiago do Sul,Fibra,8
+RS,4300059,Água Santa,Fibra,8
+RS,4300455,Alegria,Radio,8
+RS,4301552,Áurea,Radio,8
+RS,4302154,Boa Vista das Missões,Fibra,8
+RS,4303202,Cacique Doble,Radio,8
+RS,4303558,Camargo,Fibra,8
+RS,4304952,Caseiros,Fibra,8
+RS,4305124,Cerrito,Fibra,8
+RS,4305587,Colinas,Fibra,8
+RS,4305871,Coronel Barros,Fibra,8
+RS,4306973,Erebango,Fibra,8
+RS,4307054,Ernestina,Fibra,8
+RS,4309654,Hulha Negra,Fibra,8
+RS,4309753,Ibarama,Fibra,8
+RS,4311718,Maçambará,Radio,8
+RS,4312005,Mariano Moro,Fibra,8
+RS,4312757,Nova Alvorada,Fibra,8
+RS,4314555,Pirapó,Radio,8
+RS,4315057,Porto Mauá,Radio,8
+RS,4315149,Presidente Lucena,Fibra,8
+RS,4317756,Santo Antônio do Planalto,Fibra,8
+RS,4323457,Vila Nova do Sul,Radio,8
+MS,5006259,Novo Horizonte do Sul,Radio,8
+MT,5100102,Acorizal,Radio,8
+MT,5101852,Bom Jesus do Araguaia,Radio,8
+MT,5103957,Glória D'Oeste,Radio,8
+MT,5105309,Luciara,Radio,8
+MT,5107297,São José do Povo,Radio,8
+MT,5107776,Santa Terezinha,Radio,8
+MT,5108105,Tesouro,Fibra,8
+GO,5200209,Água Limpa,Radio,8
+GO,5200506,Aloândia,Radio,8
+GO,5201207,Anhanguera,Fibra,8
+GO,5203939,Buriti de Goiás,Radio,8
+GO,5205521,Colinas do Sul,Radio,8
+GO,5205703,Córrego do Ouro,Radio,8
+GO,5206701,Damianópolis,Radio,8
+GO,5206909,Davinópolis,Fibra,8
+GO,5209457,Guarinos,Radio,8
+GO,5209606,Heitoraí,Radio,8
+GO,5212253,Lagoa Santa,Radio,8
+GO,5213400,Moiporá,Radio,8
+GO,5213772,Montividiu do Norte,Radio,8
+GO,5213855,Morro Agudo de Goiás,Radio,8
+GO,5214705,Nova América,Radio,8
+GO,5214804,Nova Aurora,Fibra,8
+GO,5219209,Santa Cruz de Goiás,Radio,8
+GO,5220264,São Miguel do Passa Quatro,Radio,8
+GO,5222203,Vila Boa,Radio,8
+RO,1100700,Campo Novo de Rondônia,Fibra,8
+AC,1200336,Mâncio Lima,Fibra,8
+AC,1200344,Manoel Urbano,Fibra,8
+AC,1200427,Rodrigues Alves,Fibra,8
+AC,1200807,Porto Acre,Radio,8
+RR,1400159,Bonfim,Fibra,8
+RR,1400175,Cantá,Radio,8
+RR,1400282,Iracema,Radio,8
+RR,1400308,Mucajaí,Fibra,8
+PA,1500958,Aurora do Pará,Fibra,16
+PA,1501956,Cachoeira do Piriá,Fibra,16
+PA,1502004,Cachoeira do Arari,Radio,8
+PA,1502608,Colares,Radio,8
+PA,1502772,Curionópolis,Fibra,8
+PA,1502806,Curralinho,Radio,16
+PA,1504000,Limoeiro do Ajuru,Radio,16
+PA,1505007,Nova Timboteua,Radio,8
+PA,1505403,Ourém,Radio,8
+PA,1505601,Peixe-Boi,Radio,8
+PA,1506104,Primavera,Radio,8
+PA,1506112,Quatipuru,Radio,8
+PA,1506351,Santa Bárbara do Pará,Radio,8
+PA,1506559,Santa Luzia do Pará,Fibra,8
+PA,1507102,São Caetano de Odivelas,Radio,8
+PA,1507201,São Domingos do Capim,Radio,16
+PA,1507409,São Francisco do Pará,Radio,8
+PA,1507474,São João de Pirabas,Radio,8
+PA,1507508,São João do Araguaia,Radio,8
+PA,1507706,São Sebastião da Boa Vista,Radio,8
+AP,1600253,Itaubal,Satelite,8
+AP,1600402,Mazagão,Satelite,8
+TO,1702901,Axixá do Tocantins,Radio,8
+TO,1703800,Buriti do Tocantins,Radio,8
+TO,1703867,Cariri do Tocantins,Fibra,8
+TO,1706001,Couto Magalhães,Fibra,8
+TO,1707207,Dois Irmãos do Tocantins,Radio,8
+TO,1708254,Fortaleza do Tabocão,Fibra,8
+TO,1710706,Itaguatins,Radio,8
+TO,1712504,Marianópolis do Tocantins,Radio,8
+TO,1713601,Monte do Carmo,Radio,8
+TO,1715002,Nova Rosalândia,Fibra,8
+TO,1716208,Paranã,Radio,8
+TO,1718303,Praia Norte,Radio,8
+TO,1718865,Santa Fé do Araguaia,Radio,8
+TO,1720804,Sítio Novo do Tocantins,Radio,8
+TO,1720978,Talismã,Fibra,8
+TO,1721109,Tocantínia,Radio,8
+MA,2100154,Água Doce do Maranhão,Fibra,8
+MA,2100402,Altamira do Maranhão,Radio,8
+MA,2100808,Anapurus,Fibra,8
+MA,2100832,Apicum-Açu,Radio,8
+MA,2100873,Araguanã,Fibra,8
+MA,2101251,Bacabeira,Fibra,8
+MA,2101301,Bacuri,Radio,8
+MA,2101772,Bela Vista do Maranhão,Fibra,8
+MA,2101905,Bequimão,Radio,73
+MA,2101970,Boa Vista do Gurupi,Fibra,8
+MA,2102077,Bom Lugar,Radio,8
+MA,2102358,Buritirana,Radio,8
+MA,2102507,Cajari,Radio,8
+MA,2102556,Campestre do Maranhão,Fibra,8
+MA,2102705,Cantanhede,Radio,52
+MA,2102754,Capinzal do Norte,Radio,8
+MA,2103109,Cedral,Radio,8
+MA,2103158,Centro do Guilherme,Radio,8
+MA,2103257,Cidelândia,Fibra,8
+MA,2103554,Conceição do Lago-Açu,Radio,8
+MA,2103752,Davinópolis,Fibra,8
+MA,2103901,Duque Bacelar,Radio,8
+MA,2104081,Fernando Falcão,Radio,8
+MA,2104107,Fortaleza dos Nogueiras,Radio,8
+MA,2104206,Fortuna,Radio,8
+MA,2104305,Godofredo Viana,Radio,8
+MA,2104404,Gonçalves Dias,Fibra,8
+MA,2104503,Governador Archer,Radio,8
+MA,2104552,Governador Edison Lobão,Radio,8
+MA,2104602,Governador Eugênio Barros,Radio,8
+MA,2104628,Governador Luiz Rocha,Radio,8
+MA,2104651,Governador Newton Bello,Fibra,8
+MA,2104909,Guimarães,Radio,8
+MA,2105153,Igarapé do Meio,Fibra,8
+MA,2105203,Igarapé Grande,Radio,8
+MA,2105807,Lago do Junco,Radio,8
+MA,2105906,Lago Verde,Radio,8
+MA,2105922,Lagoa do Mato,Radio,8
+MA,2105948,Lago dos Rodrigues,Radio,8
+MA,2105963,Lagoa Grande do Maranhão,Radio,8
+MA,2105989,Lajeado Novo,Radio,8
+MA,2106003,Lima Campos,Radio,8
+MA,2106102,Loreto,Radio,8
+MA,2106201,Luís Domingues,Radio,8
+MA,2106300,Magalhães de Almeida,Radio,8
+MA,2106326,Maracaçumé,Fibra,60
+MA,2106375,Maranhãozinho,Fibra,8
+MA,2106409,Mata Roma,Fibra,8
+MA,2106631,Matões do Norte,Fibra,8
+MA,2106755,Miranda do Norte,Fibra,46
+MA,2106805,Mirinzal,Radio,8
+MA,2107001,Montes Altos,Radio,8
+MA,2107100,Morros,Radio,8
+MA,2107209,Nina Rodrigues,Radio,8
+MA,2107258,Nova Colinas,Radio,8
+MA,2107407,Olho d'Água das Cunhãs,Fibra,8
+MA,2107456,Olinda Nova do Maranhão,Fibra,8
+MA,2107605,Palmeirândia,Radio,8
+MA,2107704,Paraibano,Radio,60
+MA,2107902,Passagem Franca,Radio,8
+MA,2108009,Pastos Bons,Radio,8
+MA,2108058,Paulino Neves,Radio,8
+MA,2108108,Paulo Ramos,Fibra,54
+MA,2108256,Pedro do Rosário,Radio,16
+MA,2108405,Peri Mirim,Radio,8
+MA,2108801,Pirapemas,Radio,8
+MA,2109007,Porto Franco,Fibra,34
+MA,2109205,Presidente Juscelino,Radio,8
+MA,2109239,Presidente Médici,Fibra,8
+MA,2109270,Presidente Sarney,Radio,8
+MA,2109304,Presidente Vargas,Radio,8
+MA,2110237,Santana do Maranhão,Radio,8
+MA,2110302,Santo Antônio dos Lopes,Fibra,8
+MA,2110401,São Benedito do Rio Preto,Radio,8
+MA,2110807,São Félix de Balsas,Radio,8
+MA,2110856,São Francisco do Brejão,Fibra,8
+MA,2111029,São João do Carú,Radio,8
+MA,2111052,São João do Paraíso,Radio,8
+MA,2111409,São Luís Gonzaga do Maranhão,Radio,16
+MA,2111607,São Raimundo das Mangabeiras,Radio,8
+MA,2111706,São Vicente Ferrer,Radio,34
+MA,2111748,Senador Alexandre Costa,Radio,8
+MA,2111763,Senador La Rocque,Fibra,8
+MA,2111805,Sítio Novo,Radio,8
+MA,2111904,Sucupira do Norte,Radio,8
+MA,2112001,Tasso Fragoso,Radio,8
+MA,2112605,Urbano Santos,Radio,8
+PI,2200103,Agricolândia,Radio,8
+PI,2200202,Água Branca,Fibra,8
+PI,2200277,Alegrete do Piauí,Fibra,8
+PI,2200301,Alto Longá,Radio,8
+PI,2200509,Amarante,Radio,8
+PI,2200608,Angical do Piauí,Radio,8
+PI,2200707,Anísio de Abreu,Radio,8
+PI,2201101,Avelino Lopes,Radio,8
+PI,2201150,Baixa Grande do Ribeiro,Radio,8
+PI,2201176,Barra D'Alcântara,Radio,8
+PI,2201408,Barro Duro,Fibra,8
+PI,2201606,Beneditinos,Radio,8
+PI,2201705,Bertolínia,Radio,8
+PI,2201903,Bom Jesus,Fibra,16
+PI,2201960,Brasileira,Fibra,8
+PI,2202083,Cajueiro da Praia,Radio,8
+PI,2202406,Capitão de Campos,Fibra,8
+PI,2202505,Caracol,Radio,8
+PI,2202604,Castelo do Piauí,Radio,8
+PI,2202752,Colônia do Gurguéia,Radio,8
+PI,2202778,Colônia do Piauí,Radio,8
+PI,2202802,Conceição do Canindé,Radio,8
+PI,2203008,Cristalândia do Piauí,Radio,8
+PI,2203107,Cristino Castro,Radio,8
+PI,2203206,Curimatá,Radio,8
+PI,2203305,Demerval Lobão,Fibra,8
+PI,2203404,Dom Expedito Lopes,Fibra,8
+PI,2203453,Dom Inocêncio,Radio,8
+PI,2203503,Elesbão Veloso,Fibra,8
+PI,2203602,Eliseu Martins,Radio,8
+PI,2204204,Francisco Santos,Radio,8
+PI,2204303,Fronteiras,Radio,8
+PI,2204402,Gilbués,Radio,8
+PI,2204501,Guadalupe,Radio,8
+PI,2204659,Ilha Grande,Fibra,8
+PI,2204709,Inhuma,Fibra,8
+PI,2204808,Ipiranga do Piauí,Fibra,8
+PI,2205003,Itainópolis,Radio,8
+PI,2205102,Itaueira,Radio,8
+PI,2205201,Jaicós,Radio,8
+PI,2205409,Joaquim Pires,Radio,8
+PI,2205607,Landri Sales,Radio,8
+PI,2205953,Marcolândia,Fibra,8
+PI,2206001,Marcos Parente,Radio,8
+PI,2206100,Matias Olímpio,Radio,8
+PI,2206407,Monsenhor Gil,Fibra,8
+PI,2206506,Monsenhor Hipólito,Radio,8
+PI,2206605,Monte Alegre do Piauí,Radio,8
+PI,2206654,Morro Cabeça no Tempo,Radio,8
+PI,2206704,Nazaré do Piauí,Radio,8
+PI,2206803,Nossa Senhora dos Remédios,Radio,8
+PI,2206902,Novo Oriente do Piauí,Radio,8
+PI,2207207,Padre Marcos,Radio,8
+PI,2207405,Palmeira do Piauí,Radio,8
+PI,2207504,Palmeirais,Radio,8
+PI,2207603,Parnaguá,Radio,8
+PI,2207801,Paulistana,Radio,8
+PI,2208106,Pimenteiras,Radio,8
+PI,2208205,Pio IX,Radio,8
+PI,2208502,Porto,Radio,8
+PI,2208601,Prata do Piauí,Radio,8
+PI,2208650,Queimada Nova,Radio,8
+PI,2208700,Redenção do Gurguéia,Radio,8
+PI,2208809,Regeneração,Radio,8
+PI,2208908,Ribeiro Gonçalves,Radio,8
+PI,2209005,Rio Grande do Piauí,Radio,8
+PI,2209104,Santa Cruz do Piauí,Radio,8
+PI,2209203,Santa Filomena,Radio,8
+PI,2209302,Santa Luz,Radio,8
+PI,2209401,Santo Antônio de Lisboa,Radio,8
+PI,2209609,São Félix do Piauí,Radio,8
+PI,2210052,São José do Divino,Radio,8
+PI,2210201,São José do Piauí,Radio,8
+PI,2210300,São Julião,Radio,8
+PI,2210409,São Miguel do Tapuio,Radio,8
+PI,2210508,São Pedro do Piauí,Radio,8
+PI,2210623,Sebastião Barros,Radio,8
+PI,2210656,Sigefredo Pacheco,Radio,8
+PI,2210706,Simões,Radio,8
+PI,2210805,Simplício Mendes,Radio,8
+PI,2211209,Uruçuí,Fibra,41
+PI,2211407,Várzea Grande,Radio,8
+PI,2211506,Vera Mendes,Radio,8
+CE,2300408,Aiuaba,Fibra,8
+CE,2300507,Alcântaras,Fibra,8
+CE,2300705,Alto Santo,Radio,8
+CE,2300804,Antonina do Norte,Radio,8
+CE,2301257,Ararendá,Radio,8
+CE,2301307,Araripe,Radio,16
+CE,2301505,Arneiroz,Radio,8
+CE,2301851,Banabuiú,Radio,8
+CE,2302008,Barro,Radio,16
+CE,2302057,Barroquinha,Fibra,8
+CE,2302909,Capistrano,Fibra,8
+CE,2303006,Caridade,Radio,16
+CE,2303105,Cariré,Radio,8
+CE,2303303,Cariús,Fibra,8
+CE,2303402,Carnaubal,Fibra,8
+CE,2303659,Catunda,Radio,8
+CE,2303907,Chaval,Fibra,8
+CE,2303956,Chorozinho,Fibra,16
+CE,2304236,Croatá,Fibra,8
+CE,2304459,Fortim,Fibra,8
+CE,2304509,Frecheirinha,Radio,8
+CE,2304657,Graça,Radio,8
+CE,2304905,Groaíras,Radio,8
+CE,2305266,Ibaretama,Radio,8
+CE,2305357,Icapuí,Fibra,8
+CE,2306009,Iracema,Radio,8
+CE,2306207,Itaiçaba,Radio,8
+CE,2306504,Itapiúna,Fibra,8
+CE,2306603,Itatira,Radio,8
+CE,2306702,Jaguaretama,Radio,8
+CE,2307106,Jardim,Radio,16
+CE,2307254,Jijoca de Jericoacoara,Radio,8
+CE,2307502,Lavras da Mangabeira,Radio,16
+CE,2307908,Martinópole,Fibra,8
+CE,2308351,Milhã,Radio,8
+CE,2308377,Miraíma,Radio,8
+CE,2308609,Monsenhor Tabosa,Radio,8
+CE,2308807,Moraújo,Fibra,8
+CE,2308906,Morrinhos,Fibra,16
+CE,2309003,Mucambo,Radio,8
+CE,2309201,Nova Olinda,Fibra,8
+CE,2309805,Pacoti,Fibra,8
+CE,2309904,Pacujá,Radio,8
+CE,2310001,Palhano,Radio,8
+CE,2310100,Palmácia,Fibra,8
+CE,2310605,Penaforte,Fibra,8
+CE,2310803,Pereiro,Fibra,8
+CE,2310902,Piquet Carneiro,Radio,8
+CE,2311009,Poranga,Radio,8
+CE,2311355,Quixelô,Fibra,8
+CE,2311504,Quixeré,Fibra,50
+CE,2311900,Saboeiro,Radio,8
+CE,2311959,Salitre,Radio,8
+CE,2312601,São Luís do Curu,Radio,8
+CE,2312809,Senador Sá,Fibra,8
+CE,2313005,Solonópole,Radio,8
+CE,2313559,Tururu,Fibra,8
+CE,2313757,Umirim,Radio,8
+CE,2313906,Uruoca,Fibra,8
+CE,2313955,Varjota,Radio,8
+RN,2400109,Acari,Radio,8
+RN,2400307,Afonso Bezerra,Radio,8
+RN,2400406,Água Nova,Radio,8
+RN,2400505,Alexandria,Radio,8
+RN,2400703,Alto do Rodrigues,Radio,8
+RN,2400802,Angicos,Fibra,8
+RN,2400901,Antônio Martins,Radio,8
+RN,2401206,Arês,Radio,8
+RN,2401404,Baía Formosa,Radio,8
+RN,2401453,Baraúna,Radio,16
+RN,2401602,Bento Fernandes,Radio,8
+RN,2401701,Bom Jesus,Radio,8
+RN,2401800,Brejinho,Radio,8
+RN,2401859,Caiçara do Norte,Fibra,8
+RN,2402105,Campo Redondo,Radio,8
+RN,2402303,Caraúbas,Fibra,34
+RN,2402402,Carnaúba dos Dantas,Radio,8
+RN,2402501,Carnaubais,Radio,8
+RN,2402709,Cerro Corá,Radio,8
+RN,2402907,Coronel João Pessoa,Radio,8
+RN,2403004,Cruzeta,Radio,8
+RN,2403301,Encanto,Radio,8
+RN,2403509,Espírito Santo,Radio,8
+RN,2403905,Francisco Dantas,Radio,8
+RN,2404309,Governador Dix-Sept Rosado,Radio,8
+RN,2404408,Grossos,Radio,8
+RN,2404507,Guamaré,Radio,8
+RN,2404705,Ipanguaçu,Radio,8
+RN,2404853,Itajá,Radio,8
+RN,2404903,Itaú,Radio,8
+RN,2405108,Jandaíra,Radio,8
+RN,2405306,Boa Saúde,Radio,8
+RN,2405603,Jardim de Piranhas,Radio,8
+RN,2405702,Jardim do Seridó,Radio,8
+RN,2405900,João Dias,Radio,8
+RN,2406106,Jucurutu,Radio,8
+RN,2406205,Lagoa d'Anta,Radio,8
+RN,2406304,Lagoa de Pedras,Radio,8
+RN,2406502,Lagoa Nova,Radio,8
+RN,2406601,Lagoa Salgada,Radio,8
+RN,2406700,Lajes,Fibra,8
+RN,2406809,Lajes Pintadas,Radio,8
+RN,2407252,Major Sales,Radio,8
+RN,2407302,Marcelino Vieira,Radio,8
+RN,2407708,Montanhas,Radio,8
+RN,2408409,Olho-d'Água do Borges,Radio,8
+RN,2408508,Ouro Branco,Radio,8
+RN,2408607,Paraná,Radio,8
+RN,2409100,Passa e Fica,Radio,8
+RN,2409308,Patu,Radio,8
+RN,2409704,Pedro Avelino,Radio,8
+RN,2409803,Pedro Velho,Radio,8
+RN,2409902,Pendências,Radio,8
+RN,2410207,Portalegre,Radio,8
+RN,2410306,Serra Caiada,Radio,8
+RN,2410504,Rafael Fernandes,Radio,8
+RN,2410603,Rafael Godeiro,Radio,8
+RN,2410801,Riacho de Santana,Radio,8
+RN,2410900,Riachuelo,Radio,8
+RN,2411007,Rodolfo Fernandes,Radio,8
+RN,2411056,Tibau,Radio,8
+RN,2411601,São Bento do Norte,Radio,8
+RN,2411908,São Francisco do Oeste,Radio,8
+RN,2412104,São João do Sabugi,Radio,8
+RN,2412302,São José do Campestre,Radio,8
+RN,2412401,São José do Seridó,Radio,8
+RN,2412609,São Paulo do Potengi,Radio,8
+RN,2412708,São Pedro,Radio,8
+RN,2412807,São Rafael,Radio,8
+RN,2413003,São Vicente,Radio,8
+RN,2413201,Senador Georgino Avelino,Radio,8
+RN,2413607,Severiano Melo,Radio,8
+RN,2414001,Tangará,Radio,8
+RN,2414100,Tenente Ananias,Radio,8
+RN,2414209,Tibau do Sul,Radio,8
+RN,2414308,Timbaúba dos Batistas,Radio,8
+RN,2414506,Umarizal,Radio,8
+RN,2414605,Upanema,Radio,8
+RN,2414704,Várzea,Radio,8
+RN,2414753,Venha-Ver,Radio,8
+RN,2414803,Vera Cruz,Radio,8
+RN,2415008,Vila Flor,Radio,8
+PB,2500106,Água Branca,Radio,8
+PB,2500502,Alagoinha,Radio,8
+PB,2500577,Algodão de Jandaíra,Radio,8
+PB,2500601,Alhandra,Radio,8
+PB,2500809,Araçagi,Fibra,8
+PB,2500908,Arara,Fibra,8
+PB,2501203,Areial,Radio,8
+PB,2501302,Aroeiras,Radio,8
+PB,2501401,Baía da Traição,Radio,8
+PB,2501500,Bananeiras,Fibra,16
+PB,2501609,Barra de Santa Rosa,Radio,8
+PB,2501906,Belém,Fibra,8
+PB,2502003,Belém do Brejo do Cruz,Radio,8
+PB,2502052,Bernardino Batista,Radio,8
+PB,2502151,Boa Vista,Radio,8
+PB,2502300,Bom Sucesso,Radio,8
+PB,2502508,Boqueirão,Radio,8
+PB,2502607,Igaracy,Radio,8
+PB,2502805,Brejo do Cruz,Radio,8
+PB,2502904,Brejo dos Santos,Radio,8
+PB,2503100,Cabaceiras,Radio,8
+PB,2503506,Cacimba de Dentro,Radio,8
+PB,2504108,Carrapateira,Radio,8
+PB,2504405,Conceição,Radio,8
+PB,2504801,Coremas,Radio,8
+PB,2504900,Cruz do Espírito Santo,Fibra,8
+PB,2505204,Cuitegi,Fibra,8
+PB,2505709,Dona Inês,Radio,8
+PB,2505808,Duas Estradas,Radio,8
+PB,2506103,Fagundes,Radio,8
+PB,2506400,Gurinhém,Radio,8
+PB,2506509,Gurjão,Radio,8
+PB,2506608,Ibiara,Radio,8
+PB,2506806,Ingá,Fibra,8
+PB,2507101,Itapororoca,Fibra,8
+PB,2507200,Itatuba,Radio,8
+PB,2507309,Jacaraú,Radio,8
+PB,2507408,Jericó,Radio,8
+PB,2507606,Juarez Távora,Radio,8
+PB,2507705,Juazeirinho,Radio,8
+PB,2507903,Juripiranga,Radio,8
+PB,2508000,Juru,Radio,8
+PB,2508109,Lagoa,Radio,8
+PB,2508208,Lagoa de Dentro,Radio,8
+PB,2508604,Lucena,Radio,8
+PB,2508802,Malta,Radio,8
+PB,2509156,Marizópolis,Radio,8
+PB,2509206,Massaranduba,Radio,8
+PB,2509305,Mataraca,Radio,8
+PB,2509503,Montadas,Radio,8
+PB,2509800,Mulungu,Radio,8
+PB,2509909,Natuba,Radio,8
+PB,2510105,Nova Floresta,Radio,8
+PB,2510402,Olho d'Água,Radio,8
+PB,2510501,Olivedos,Radio,8
+PB,2510600,Ouro Velho,Radio,8
+PB,2511004,Pedra Branca,Radio,8
+PB,2511202,Pedras de Fogo,Radio,16
+PB,2511301,Piancó,Radio,8
+PB,2511400,Picuí,Radio,8
+PB,2511509,Pilar,Fibra,8
+PB,2511806,Pirpirituba,Fibra,8
+PB,2511905,Pitimbu,Radio,8
+PB,2512002,Pocinhos,Radio,8
+PB,2512408,Puxinanã,Radio,8
+PB,2512705,Remígio,Fibra,8
+PB,2513208,Santa Cruz,Radio,8
+PB,2513307,Santa Helena,Radio,8
+PB,2513406,Santa Luzia,Radio,8
+PB,2513943,São Domingos do Cariri,Radio,8
+PB,2513984,São Francisco,Radio,8
+PB,2514206,São José da Lagoa Tapada,Radio,8
+PB,2514305,São José de Caiana,Radio,8
+PB,2514404,São José de Espinharas,Radio,8
+PB,2514503,São José de Piranhas,Radio,8
+PB,2514909,São Mamede,Radio,8
+PB,2515104,São Sebastião de Lagoa de Roça,Fibra,8
+PB,2515500,Serra Branca,Radio,8
+PB,2515807,Serra Redonda,Radio,8
+PB,2515906,Serraria,Radio,8
+PB,2516102,Soledade,Radio,8
+PB,2516151,Sossêgo,Radio,8
+PB,2516300,Sumé,Radio,8
+PB,2516508,Taperoá,Radio,8
+PB,2516805,Triunfo,Radio,8
+PB,2516904,Uiraúna,Radio,8
+PB,2517001,Umbuzeiro,Radio,8
+PE,2600203,Afrânio,Radio,8
+PE,2600609,Alagoinha,Radio,8
+PE,2601052,Araçoiaba,Radio,8
+PE,2601300,Barra de Guabiraba,Radio,8
+PE,2601508,Belém de Maria,Radio,8
+PE,2603108,Cachoeirinha,Radio,8
+PE,2603207,Caetés,Radio,16
+PE,2603504,Camocim de São Félix,Radio,8
+PE,2603900,Carnaíba,Radio,8
+PE,2603926,Carnaubeira da Penha,Radio,8
+PE,2604155,Casinhas,Radio,8
+PE,2604304,Cedro,Radio,8
+PE,2604403,Chã de Alegria,Radio,8
+PE,2604502,Chã Grande,Radio,16
+PE,2604700,Correntes,Radio,8
+PE,2604908,Cumaru,Radio,16
+PE,2605152,Dormentes,Radio,8
+PE,2605509,Ferreiros,Radio,8
+PE,2605806,Frei Miguelinho,Radio,8
+PE,2606903,Iguaraci,Radio,8
+PE,2607000,Inajá,Fibra,22
+PE,2607406,Itacuruba,Radio,8
+PE,2607604,Ilha de Itamaracá,Fibra,100
+PE,2607703,Itapetim,Radio,8
+PE,2607802,Itaquitinga,Radio,8
+PE,2608008,Jataúba,Radio,8
+PE,2608057,Jatobá,Radio,8
+PE,2608206,Joaquim Nabuco,Radio,8
+PE,2608305,Jupi,Radio,8
+PE,2608404,Jurema,Radio,8
+PE,2608453,Lagoa do Carro,Fibra,8
+PE,2608701,Lagoa dos Gatos,Radio,8
+PE,2609105,Machados,Radio,8
+PE,2609204,Maraial,Radio,8
+PE,2609303,Mirandiba,Radio,8
+PE,2609808,Orocó,Fibra,8
+PE,2610103,Palmeirina,Fibra,8
+PE,2611200,Poção,Radio,8
+PE,2611408,Primavera,Radio,8
+PE,2612000,Sairé,Radio,8
+PE,2613305,São Joaquim do Monte,Radio,16
+PE,2613404,São José da Coroa Grande,Radio,8
+PE,2613800,São Vicente Ferrer,Radio,8
+PE,2614006,Serrita,Radio,8
+PE,2614303,Moreilândia,Radio,8
+PE,2614402,Solidão,Radio,8
+PE,2614709,Tacaimbó,Radio,8
+PE,2614857,Tamandaré,Fibra,150
+PE,2615508,Tracunhaém,Radio,8
+PE,2615706,Triunfo,Radio,8
+PE,2615904,Tuparetama,Radio,8
+PE,2616001,Venturosa,Radio,8
+PE,2616209,Vertentes,Fibra,8
+PE,2616506,Xexéu,Radio,8
+AL,2700102,Água Branca,Radio,16
+AL,2700201,Anadia,Radio,8
+AL,2700508,Barra de Santo Antônio,Fibra,8
+AL,2700607,Barra de São Miguel,Radio,8
+AL,2700706,Batalha,Radio,8
+AL,2700805,Belém,Radio,8
+AL,2701357,Campestre,Radio,8
+AL,2701605,Canapi,Radio,8
+AL,2701704,Capela,Fibra,8
+AL,2702009,Coité do Nóia,Radio,8
+AL,2702108,Colônia Leopoldina,Radio,16
+AL,2702207,Coqueiro Seco,Radio,8
+AL,2702603,Feira Grande,Radio,16
+AL,2702702,Feliz Deserto,Radio,8
+AL,2703601,Japaratinga,Fibra,8
+AL,2703759,Jequiá da Praia,Radio,8
+AL,2704104,Lagoa da Canoa,Radio,16
+AL,2704203,Limoeiro de Anadia,Radio,16
+AL,2705200,Messias,Radio,8
+AL,2705408,Monteirópolis,Radio,8
+AL,2705606,Novo Lino,Radio,8
+AL,2705804,Olho d'Água do Casado,Radio,8
+AL,2706000,Olivença,Radio,8
+AL,2706109,Ouro Branco,Radio,8
+AL,2706208,Palestina,Radio,8
+AL,2706422,Pariconha,Radio,8
+AL,2706448,Paripueira,Fibra,8
+AL,2706505,Passo de Camaragibe,Radio,8
+AL,2707404,Porto de Pedras,Radio,8
+AL,2707503,Porto Real do Colégio,Fibra,16
+AL,2707602,Quebrangulo,Fibra,8
+AL,2707909,Santa Luzia do Norte,Radio,8
+AL,2708709,São Miguel dos Milagres,Radio,8
+AL,2708907,Satuba,Radio,8
+AL,2709004,Tanque d'Arca,Radio,8
+AL,2709103,Taquarana,Radio,8
+SE,2800407,Arauá,Radio,8
+SE,2800506,Areia Branca,Fibra,8
+SE,2801009,Campo do Brito,Fibra,8
+SE,2801108,Canhoba,Radio,8
+SE,2801504,Carmópolis,Fibra,8
+SE,2801603,Cedro de São João,Fibra,8
+SE,2801702,Cristinápolis,Radio,8
+SE,2802007,Divina Pastora,Radio,8
+SE,2802304,Frei Paulo,Radio,8
+SE,2802502,General Maynard,Radio,8
+SE,2802700,Ilha das Flores,Radio,8
+SE,2803104,Itabi,Radio,8
+SE,2803302,Japaratuba,Fibra,8
+SE,2803401,Japoatã,Radio,8
+SE,2803906,Malhador,Fibra,8
+SE,2804003,Maruim,Fibra,8
+SE,2804102,Moita Bonita,Fibra,8
+SE,2804300,Muribeca,Fibra,8
+SE,2804458,Nossa Senhora Aparecida,Radio,8
+SE,2804706,Nossa Senhora de Lourdes,Radio,8
+SE,2804904,Pacatuba,Radio,8
+SE,2805109,Pedrinhas,Radio,8
+SE,2805307,Pirambu,Radio,8
+SE,2805802,Riachão do Dantas,Radio,16
+SE,2805901,Riachuelo,Fibra,8
+SE,2806008,Ribeirópolis,Fibra,8
+SE,2806107,Rosário do Catete,Fibra,8
+SE,2806800,São Domingos,Radio,8
+SE,2807204,Siriri,Radio,8
+BA,2900108,Abaíra,Radio,8
+BA,2900306,Acajutiba,Radio,8
+BA,2900355,Adustina,Radio,8
+BA,2900405,Água Fria,Radio,8
+BA,2900504,Érico Cardoso,Radio,8
+BA,2900900,Almadina,Fibra,8
+BA,2901205,Anagé,Radio,16
+BA,2901304,Andaraí,Radio,8
+BA,2901353,Andorinha,Radio,8
+BA,2901403,Angical,Radio,8
+BA,2901601,Antas,Fibra,8
+BA,2901809,Antônio Gonçalves,Fibra,8
+BA,2901908,Aporá,Radio,8
+BA,2901957,Apuarema,Radio,8
+BA,2902005,Aracatu,Radio,8
+BA,2902054,Araças,Radio,8
+BA,2902203,Aramari,Radio,8
+BA,2902252,Arataca,Radio,8
+BA,2902401,Aurelino Leal,Fibra,8
+BA,2902500,Baianópolis,Radio,8
+BA,2902609,Baixa Grande,Radio,8
+BA,2902658,Banzaê,Radio,8
+BA,2903003,Barra do Mendes,Radio,8
+BA,2903102,Barra do Rocha,Fibra,8
+BA,2903235,Barro Alto,Radio,8
+BA,2903276,Barrocas,Radio,8
+BA,2903300,Barro Preto,Fibra,8
+BA,2903607,Biritinga,Radio,8
+BA,2904001,Boninal,Radio,8
+BA,2904209,Botuporã,Radio,8
+BA,2904308,Brejões,Radio,8
+BA,2904803,Caatiba,Radio,8
+BA,2904852,Cabaceiras do Paraguaçu,Radio,8
+BA,2905305,Cafarnaum,Radio,8
+BA,2905503,Caldeirão Grande,Radio,8
+BA,2906402,Candeal,Radio,8
+BA,2906600,Candiba,Radio,8
+BA,2906824,Canudos,Radio,8
+BA,2906857,Capela do Alto Alegre,Radio,8
+BA,2907004,Cardeal da Silva,Radio,8
+BA,2907558,Caturama,Radio,8
+BA,2907608,Central,Radio,8
+BA,2907905,Cipó,Radio,8
+BA,2908101,Cocos,Radio,8
+BA,2908309,Conceição do Almeida,Radio,8
+BA,2908705,Condeúba,Radio,8
+BA,2909000,Cordeiros,Radio,8
+BA,2909406,Cotegipe,Radio,8
+BA,2909604,Crisópolis,Radio,16
+BA,2909703,Cristópolis,Radio,8
+BA,2910008,Dário Meira,Radio,8
+BA,2910305,Elísio Medrado,Radio,8
+BA,2910750,Fátima,Radio,8
+BA,2910859,Filadélfia,Radio,8
+BA,2910909,Firmino Alves,Fibra,8
+BA,2911006,Floresta Azul,Fibra,8
+BA,2911402,Glória,Radio,8
+BA,2911501,Gongogi,Fibra,8
+BA,2912202,Ibicoara,Radio,8
+BA,2912301,Ibicuí,Radio,8
+BA,2912400,Ibipeba,Radio,8
+BA,2912509,Ibipitanga,Radio,8
+BA,2912806,Ibirapuã,Radio,8
+BA,2913101,Ibititá,Radio,8
+BA,2913309,Ichu,Radio,8
+BA,2913408,Igaporã,Fibra,8
+BA,2913457,Igrapiúna,Fibra,8
+BA,2913804,Ipecaetá,Radio,8
+BA,2914109,Ipupiara,Radio,8
+BA,2914208,Irajuba,Fibra,8
+BA,2914406,Iraquara,Radio,16
+BA,2915007,Itaeté,Radio,8
+BA,2915106,Itagi,Radio,8
+BA,2915205,Itagibá,Radio,8
+BA,2915304,Itagimirim,Fibra,8
+BA,2915403,Itaju do Colônia,Radio,8
+BA,2915700,Itamari,Radio,8
+BA,2915908,Itanagra,Radio,8
+BA,2916005,Itanhém,Radio,16
+BA,2916203,Itapé,Fibra,8
+BA,2916302,Itapebi,Fibra,8
+BA,2916500,Itapicuru,Radio,16
+BA,2916609,Itapitanga,Fibra,8
+BA,2916708,Itaquara,Radio,8
+BA,2916856,Itatim,Radio,8
+BA,2916906,Itiruçu,Radio,8
+BA,2917003,Itiúba,Fibra,16
+BA,2917201,Ituaçu,Radio,8
+BA,2917359,Jaborandi,Radio,8
+BA,2917409,Jacaraci,Radio,8
+BA,2917805,Jaguaripe,Radio,8
+BA,2917904,Jandaíra,Radio,8
+BA,2918209,Jiquiriçá,Radio,8
+BA,2918506,Jussara,Radio,8
+BA,2918555,Jussari,Fibra,8
+BA,2918902,Lajedão,Radio,8
+BA,2919058,Lajedo do Tabocal,Radio,8
+BA,2919108,Lamarão,Radio,8
+BA,2919306,Lençóis,Radio,8
+BA,2919405,Licínio de Almeida,Radio,8
+BA,2919603,Macajuba,Radio,8
+BA,2919702,Macarani,Radio,8
+BA,2919959,Maetinga,Radio,8
+BA,2920007,Maiquinique,Radio,8
+BA,2920106,Mairi,Radio,8
+BA,2920304,Malhada de Pedras,Radio,8
+BA,2920403,Manoel Vitorino,Fibra,8
+BA,2920700,Maraú,Fibra,16
+BA,2920809,Marcionílio Souza,Radio,8
+BA,2920908,Mascote,Radio,8
+BA,2921302,Milagres,Fibra,8
+BA,2921401,Mirangaba,Radio,8
+BA,2921609,Morpará,Radio,8
+BA,2921807,Mortugaba,Radio,8
+BA,2921906,Mucugê,Radio,8
+BA,2922102,Mundo Novo,Fibra,16
+BA,2922201,Muniz Ferreira,Radio,8
+BA,2922656,Nordestina,Radio,8
+BA,2922706,Nova Canaã,Radio,8
+BA,2922730,Nova Fátima,Radio,8
+BA,2922854,Nova Redenção,Radio,8
+BA,2923035,Novo Horizonte,Fibra,8
+BA,2923050,Novo Triunfo,Radio,8
+BA,2923209,Oliveira dos Brejinhos,Radio,16
+BA,2923308,Ouriçangas,Radio,8
+BA,2923357,Ourolândia,Radio,8
+BA,2923506,Palmeiras,Radio,8
+BA,2923902,Pau Brasil,Fibra,8
+BA,2924058,Pé de Serra,Radio,8
+BA,2924306,Piatã,Radio,8
+BA,2924504,Pindaí,Radio,8
+BA,2924603,Pindobaçu,Radio,34
+BA,2924652,Pintadas,Radio,8
+BA,2925253,Ponto Novo,Radio,8
+BA,2925402,Potiraguá,Radio,8
+BA,2925600,Presidente Dutra,Radio,8
+BA,2925709,Presidente Jânio Quadros,Radio,8
+BA,2925956,Rafael Jambeiro,Radio,16
+BA,2926103,Retirolândia,Fibra,8
+BA,2926657,Ribeirão do Largo,Radio,8
+BA,2926707,Rio de Contas,Radio,8
+BA,2926806,Rio do Antônio,Radio,8
+BA,2926905,Rio do Pires,Radio,8
+BA,2927101,Rodelas,Radio,8
+BA,2927309,Salinas da Margarida,Radio,8
+BA,2927606,Santa Brígida,Radio,8
+BA,2927804,Santa Cruz da Vitória,Fibra,8
+BA,2927903,Santa Inês,Radio,8
+BA,2928059,Santa Luzia,Radio,8
+BA,2928505,Santa Teresinha,Radio,8
+BA,2928901,São Desidério,Fibra,16
+BA,2928950,São Domingos,Radio,8
+BA,2929008,São Félix,Fibra,8
+BA,2929255,São Gabriel,Radio,8
+BA,2929354,São José da Vitória,Fibra,8
+BA,2929370,São José do Jacuípe,Radio,8
+BA,2929404,São Miguel das Matas,Radio,8
+BA,2929602,Sapeaçu,Radio,8
+BA,2929701,Sátiro Dias,Radio,30
+BA,2929750,Saubara,Radio,8
+BA,2929800,Saúde,Fibra,8
+BA,2930154,Serra do Ramalho,Radio,16
+BA,2930303,Serra Dourada,Radio,8
+BA,2930600,Serrolândia,Radio,8
+BA,2930758,Sítio do Mato,Radio,8
+BA,2930766,Sítio do Quinto,Radio,16
+BA,2930808,Souto Soares,Radio,8
+BA,2930907,Tabocas do Brejo Velho,Radio,8
+BA,2931053,Tanque Novo,Radio,8
+BA,2931103,Tanquinho,Radio,8
+BA,2931301,Tapiramutá,Radio,8
+BA,2931400,Teodoro Sampaio,Radio,8
+BA,2931509,Teofilândia,Radio,16
+BA,2931608,Teolândia,Fibra,8
+BA,2931707,Terra Nova,Radio,8
+BA,2932408,Uibaí,Radio,8
+BA,2932457,Umburanas,Radio,8
+BA,2932606,Urandi,Radio,8
+BA,2932804,Utinga,Radio,8
+BA,2933158,Várzea Nova,Radio,8
+BA,2933406,Wagner,Radio,8
+BA,2933455,Wanderley,Radio,8
+MG,3100104,Abadia dos Dourados,Radio,8
+MG,3100302,Abre Campo,Radio,8
+MG,3100401,Acaiaca,Fibra,8
+MG,3100500,Açucena,Radio,8
+MG,3100609,Água Boa,Radio,8
+MG,3100906,Águas Formosas,Radio,8
+MG,3101003,Águas Vermelhas,Radio,8
+MG,3101201,Aiuruoca,Fibra,8
+MG,3101300,Alagoa,Radio,8
+MG,3101631,Alfredo Vasconcelos,Fibra,8
+MG,3101805,Alpercata,Radio,8
+MG,3101904,Alpinópolis,Radio,8
+MG,3102001,Alterosa,Radio,8
+MG,3102050,Alto Caparaó,Radio,8
+MG,3102100,Alto Rio Doce,Radio,8
+MG,3102209,Alvarenga,Radio,8
+MG,3102308,Alvinópolis,Radio,8
+MG,3102506,Amparo do Serra,Radio,8
+MG,3102704,Cachoeira de Pajeú,Radio,8
+MG,3102803,Andrelândia,Radio,8
+MG,3102902,Antônio Carlos,Radio,8
+MG,3103009,Antônio Dias,Fibra,8
+MG,3103108,Antônio Prado de Minas,Radio,8
+MG,3103603,Arantina,Fibra,8
+MG,3103702,Araponga,Radio,8
+MG,3104106,Arceburgo,Radio,8
+MG,3104304,Areado,Fibra,8
+MG,3104403,Argirita,Fibra,8
+MG,3104452,Aricanduva,Radio,8
+MG,3104502,Arinos,Radio,8
+MG,3104601,Astolfo Dutra,Radio,8
+MG,3104700,Ataléia,Radio,8
+MG,3104908,Baependi,Fibra,8
+MG,3105004,Baldim,Radio,8
+MG,3105301,Bandeira do Sul,Fibra,8
+MG,3105509,Barão de Monte Alto,Radio,8
+MG,3105707,Barra Longa,Radio,8
+MG,3106101,Belmiro Braga,Radio,8
+MG,3106408,Belo Vale,Radio,8
+MG,3106507,Berilo,Radio,8
+MG,3106804,Bias Fortes,Radio,8
+MG,3106903,Bicas,Fibra,8
+MG,3107000,Biquinhas,Radio,8
+MG,3107208,Bocaina de Minas,Radio,8
+MG,3107505,Bom Jardim de Minas,Fibra,8
+MG,3107604,Bom Jesus da Penha,Radio,8
+MG,3107802,Bom Jesus do Galho,Radio,8
+MG,3107901,Bom Repouso,Radio,8
+MG,3108008,Bom Sucesso,Fibra,8
+MG,3108107,Bonfim,Radio,8
+MG,3108206,Bonfinópolis de Minas,Radio,8
+MG,3108305,Borda da Mata,Radio,8
+MG,3108404,Botelhos,Fibra,8
+MG,3108503,Botumirim,Radio,8
+MG,3108552,Brasilândia de Minas,Radio,8
+MG,3108701,Brás Pires,Radio,8
+MG,3108909,Brazópolis,Radio,8
+MG,3109204,Buenópolis,Fibra,8
+MG,3109451,Cabeceira Grande,Radio,8
+MG,3109501,Cabo Verde,Fibra,8
+MG,3109600,Cachoeira da Prata,Fibra,8
+MG,3109709,Cachoeira de Minas,Fibra,8
+MG,3109907,Caetanópolis,Fibra,8
+MG,3110202,Cajuri,Fibra,8
+MG,3110301,Caldas,Fibra,8
+MG,3110707,Cambuquira,Fibra,8
+MG,3110806,Campanário,Fibra,8
+MG,3110905,Campanha,Radio,8
+MG,3111309,Campo do Meio,Radio,8
+MG,3111705,Canaã,Radio,8
+MG,3112000,Candeias,Fibra,8
+MG,3112059,Cantagalo,Fibra,8
+MG,3112109,Caparaó,Radio,8
+MG,3112208,Capela Nova,Radio,8
+MG,3112406,Capetinga,Radio,8
+MG,3112505,Capim Branco,Fibra,8
+MG,3112653,Capitão Andrade,Radio,8
+MG,3112703,Capitão Enéas,Radio,8
+MG,3112802,Capitólio,Radio,8
+MG,3112901,Caputira,Radio,8
+MG,3113503,Carbonita,Radio,8
+MG,3113602,Careaçu,Fibra,8
+MG,3113800,Carmésia,Radio,8
+MG,3113909,Carmo da Cachoeira,Fibra,8
+MG,3114006,Carmo da Mata,Radio,8
+MG,3114105,Carmo de Minas,Fibra,8
+MG,3114501,Carmópolis de Minas,Fibra,8
+MG,3114808,Carvalhos,Fibra,8
+MG,3115102,Cássia,Radio,8
+MG,3115201,Conceição da Barra de Minas,Radio,8
+MG,3115359,Catas Altas,Radio,8
+MG,3115458,Catuji,Fibra,8
+MG,3115474,Catuti,Radio,8
+MG,3115706,Central de Minas,Radio,8
+MG,3115904,Chácara,Radio,8
+MG,3116001,Chalé,Radio,8
+MG,3116159,Chapada Gaúcha,Radio,8
+MG,3116209,Chiador,Radio,8
+MG,3116506,Claro dos Poções,Radio,8
+MG,3116704,Coimbra,Fibra,8
+MG,3116803,Coluna,Radio,8
+MG,3117108,Conceição da Aparecida,Radio,8
+MG,3117405,Conceição de Ipanema,Radio,8
+MG,3117504,Conceição do Mato Dentro,Radio,8
+MG,3117603,Conceição do Pará,Radio,8
+MG,3117702,Conceição do Rio Verde,Radio,8
+MG,3117801,Conceição dos Ouros,Fibra,8
+MG,3117876,Confins,Fibra,8
+MG,3117900,Congonhal,Fibra,8
+MG,3118205,Conquista,Radio,8
+MG,3118700,Coqueiral,Radio,8
+MG,3118908,Cordisburgo,Fibra,8
+MG,3119203,Coroaci,Radio,8
+MG,3119500,Coronel Murta,Radio,8
+MG,3119609,Coronel Pacheco,Radio,8
+MG,3119708,Coronel Xavier Chaves,Radio,8
+MG,3119955,Córrego Fundo,Radio,8
+MG,3120003,Córrego Novo,Radio,8
+MG,3120151,Crisólita,Radio,8
+MG,3120201,Cristais,Radio,8
+MG,3120409,Cristiano Otoni,Fibra,8
+MG,3120508,Cristina,Fibra,8
+MG,3120805,Cruzília,Radio,8
+MG,3120839,Cuparaque,Radio,8
+MG,3120870,Curral de Dentro,Radio,8
+MG,3121001,Datas,Radio,8
+MG,3121100,Delfim Moreira,Radio,8
+MG,3121209,Delfinópolis,Radio,8
+MG,3121308,Descoberto,Radio,8
+MG,3121407,Desterro de Entre Rios,Radio,8
+MG,3121506,Desterro do Melo,Radio,8
+MG,3121704,Diogo de Vasconcelos,Radio,8
+MG,3121803,Dionísio,Radio,8
+MG,3121902,Divinésia,Radio,8
+MG,3122108,Divino das Laranjeiras,Radio,8
+MG,3122207,Divinolândia de Minas,Radio,8
+MG,3122355,Divisa Alegre,Fibra,8
+MG,3122454,Divisópolis,Radio,8
+MG,3122504,Dom Cavati,Radio,8
+MG,3122603,Dom Joaquim,Radio,8
+MG,3122702,Dom Silvério,Radio,8
+MG,3122900,Dona Eusébia,Radio,8
+MG,3123007,Dores de Campos,Radio,8
+MG,3123205,Dores do Indaiá,Radio,8
+MG,3123304,Dores do Turvo,Radio,8
+MG,3123700,Engenheiro Caldas,Radio,8
+MG,3123809,Engenheiro Navarro,Fibra,8
+MG,3123858,Entre Folhas,Radio,8
+MG,3123908,Entre Rios de Minas,Radio,8
+MG,3124005,Ervália,Radio,8
+MG,3124500,Estiva,Fibra,8
+MG,3124609,Estrela Dalva,Radio,8
+MG,3124708,Estrela do Indaiá,Radio,8
+MG,3124807,Estrela do Sul,Radio,8
+MG,3124906,Eugenópolis,Fibra,8
+MG,3125002,Ewbank da Câmara,Fibra,8
+MG,3125200,Fama,Radio,8
+MG,3125309,Faria Lemos,Radio,8
+MG,3125606,Felisburgo,Radio,8
+MG,3125705,Felixlândia,Radio,8
+MG,3125804,Fernandes Tourinho,Radio,8
+MG,3125903,Ferros,Radio,8
+MG,3125952,Fervedouro,Radio,8
+MG,3126000,Florestal,Radio,8
+MG,3126208,Formoso,Radio,8
+MG,3126307,Fortaleza de Minas,Radio,8
+MG,3126604,Francisco Dumont,Radio,8
+MG,3126901,Frei Inocêncio,Fibra,8
+MG,3127008,Fronteira,Radio,8
+MG,3127057,Fronteira dos Vales,Radio,8
+MG,3127206,Funilândia,Radio,8
+MG,3127305,Galiléia,Fibra,8
+MG,3127370,Goiabeira,Radio,8
+MG,3127388,Goianá,Radio,8
+MG,3127503,Gonzaga,Radio,8
+MG,3127602,Gouveia,Radio,8
+MG,3127800,Grão Mogol,Radio,8
+MG,3128105,Guapé,Radio,8
+MG,3128204,Guaraciaba,Radio,8
+MG,3128402,Guarani,Radio,8
+MG,3128501,Guarará,Fibra,8
+MG,3128600,Guarda-Mor,Fibra,8
+MG,3128808,Guidoval,Radio,8
+MG,3128907,Guimarânia,Fibra,8
+MG,3129004,Guiricema,Radio,8
+MG,3129202,Heliodora,Radio,8
+MG,3129301,Iapu,Radio,8
+MG,3129905,Ibitiúra de Minas,Radio,8
+MG,3130002,Ibituruna,Radio,8
+MG,3130051,Icaraí de Minas,Radio,8
+MG,3130408,Ijaci,Fibra,8
+MG,3130507,Ilicínea,Radio,8
+MG,3130606,Inconfidentes,Radio,8
+MG,3130655,Indaiabira,Radio,8
+MG,3131000,Inhaúma,Radio,8
+MG,3131109,Inimutaba,Radio,8
+MG,3131158,Ipaba,Radio,8
+MG,3131208,Ipanema,Radio,8
+MG,3131505,Ipuiúna,Fibra,8
+MG,3131604,Iraí de Minas,Fibra,8
+MG,3131802,Itabirinha,Radio,8
+MG,3132107,Itacarambi,Radio,8
+MG,3132206,Itaguara,Fibra,8
+MG,3132305,Itaipé,Radio,8
+MG,3132602,Itamarati de Minas,Radio,8
+MG,3132909,Itamogi,Radio,8
+MG,3133006,Itamonte,Fibra,8
+MG,3133105,Itanhandu,Fibra,8
+MG,3133204,Itanhomi,Radio,8
+MG,3133600,Itapeva,Fibra,8
+MG,3133709,Itatiaiuçu,Fibra,8
+MG,3133758,Itaú de Minas,Radio,8
+MG,3134004,Itinga,Radio,8
+MG,3134103,Itueta,Fibra,8
+MG,3134301,Itumirim,Radio,8
+MG,3134509,Itutinga,Radio,8
+MG,3134608,Jaboticatubas,Radio,8
+MG,3134707,Jacinto,Radio,8
+MG,3134806,Jacuí,Radio,8
+MG,3135076,Jampruca,Radio,8
+MG,3135357,Japonvar,Radio,8
+MG,3135407,Jeceaba,Radio,8
+MG,3135506,Jequeri,Radio,8
+MG,3135605,Jequitaí,Radio,8
+MG,3135704,Jequitibá,Radio,8
+MG,3135902,Jesuânia,Fibra,8
+MG,3136009,Joaíma,Radio,8
+MG,3136405,Joaquim Felício,Fibra,8
+MG,3136504,Jordânia,Radio,8
+MG,3136553,José Raydan,Radio,8
+MG,3136603,Nova União,Fibra,8
+MG,3136900,Juruaia,Radio,8
+MG,3136959,Juvenília,Radio,8
+MG,3137007,Ladainha,Radio,8
+MG,3137304,Lagoa dos Patos,Radio,8
+MG,3137403,Lagoa Dourada,Radio,8
+MG,3137908,Lamim,Radio,8
+MG,3138005,Laranjal,Radio,8
+MG,3138302,Leandro Ferreira,Radio,8
+MG,3138500,Liberdade,Fibra,8
+MG,3138609,Lima Duarte,Fibra,8
+MG,3138708,Luminárias,Radio,8
+MG,3138906,Machacalis,Radio,8
+MG,3139102,Madre de Deus de Minas,Radio,8
+MG,3139201,Malacacheta,Radio,8
+MG,3139805,Mar de Espanha,Radio,8
+MG,3139904,Maria da Fé,Radio,8
+MG,3140100,Marilac,Radio,8
+MG,3140159,Mário Campos,Fibra,8
+MG,3140209,Maripá de Minas,Fibra,8
+MG,3140308,Marliéria,Fibra,8
+MG,3140506,Martinho Campos,Radio,8
+MG,3140555,Mata Verde,Radio,8
+MG,3140902,Matipó,Radio,8
+MG,3141207,Matutina,Radio,8
+MG,3141306,Medeiros,Radio,8
+MG,3141504,Mendes Pimentel,Radio,8
+MG,3141603,Mercês,Radio,8
+MG,3141702,Mesquita,Radio,8
+MG,3142106,Miradouro,Radio,8
+MG,3142205,Miraí,Fibra,8
+MG,3142304,Moeda,Radio,8
+MG,3142601,Monsenhor Paulo,Fibra,8
+MG,3142700,Montalvânia,Radio,8
+MG,3142908,Monte Azul,Radio,16
+MG,3143005,Monte Belo,Fibra,8
+MG,3143450,Montezuma,Radio,8
+MG,3143500,Morada Nova de Minas,Radio,8
+MG,3144201,Nacip Raydan,Radio,8
+MG,3144359,Naque,Fibra,8
+MG,3144409,Natércia,Radio,8
+MG,3144508,Nazareno,Radio,8
+MG,3144706,Nova Era,Fibra,8
+MG,3144904,Nova Módica,Radio,8
+MG,3145109,Nova Resende,Radio,8
+MG,3145356,Novo Oriente de Minas,Radio,8
+MG,3145406,Olaria,Fibra,8
+MG,3145455,Olhos-d'Água,Radio,8
+MG,3145505,Olímpio Noronha,Radio,8
+MG,3145851,Oratórios,Radio,8
+MG,3146206,Ouro Verde de Minas,Radio,8
+MG,3146305,Padre Paraíso,Fibra,8
+MG,3146404,Paineiras,Radio,8
+MG,3146503,Pains,Radio,8
+MG,3146602,Paiva,Radio,8
+MG,3146701,Palma,Radio,8
+MG,3147303,Paraisópolis,Fibra,150
+MG,3147600,Passa Quatro,Fibra,8
+MG,3147709,Passa Tempo,Radio,8
+MG,3147808,Passa-Vinte,Radio,8
+MG,3147956,Patis,Radio,8
+MG,3148202,Patrocínio do Muriaé,Fibra,8
+MG,3148301,Paula Cândido,Radio,8
+MG,3148400,Paulistas,Radio,8
+MG,3148509,Pavão,Radio,8
+MG,3148608,Peçanha,Radio,8
+MG,3149002,Pedra Dourada,Radio,8
+MG,3149101,Pedralva,Fibra,8
+MG,3149408,Pedro Teixeira,Radio,8
+MG,3149507,Pequeri,Radio,8
+MG,3149804,Perdizes,Radio,8
+MG,3149952,Periquito,Fibra,8
+MG,3150000,Pescador,Radio,8
+MG,3150158,Piedade de Caratinga,Radio,8
+MG,3150208,Piedade de Ponte Nova,Radio,8
+MG,3150307,Piedade do Rio Grande,Radio,8
+MG,3150505,Pimenta,Radio,8
+MG,3150604,Piracema,Radio,8
+MG,3150802,Piranga,Radio,8
+MG,3151008,Piranguinho,Fibra,8
+MG,3151107,Pirapetinga,Radio,8
+MG,3151305,Piraúba,Fibra,8
+MG,3151701,Poço Fundo,Radio,8
+MG,3151909,Pocrane,Radio,8
+MG,3152170,Ponto dos Volantes,Fibra,8
+MG,3152303,Porto Firme,Radio,8
+MG,3152402,Poté,Radio,8
+MG,3152600,Pouso Alto,Fibra,8
+MG,3152709,Prados,Radio,8
+MG,3152907,Pratápolis,Radio,8
+MG,3153004,Pratinha,Radio,8
+MG,3153103,Presidente Bernardes,Radio,8
+MG,3153509,Alto Jequitibá,Radio,8
+MG,3153608,Prudente de Morais,Fibra,8
+MG,3153707,Quartel Geral,Radio,8
+MG,3153905,Raposos,Radio,8
+MG,3154101,Recreio,Radio,8
+MG,3154200,Resende Costa,Radio,8
+MG,3154309,Resplendor,Fibra,8
+MG,3154408,Ressaquinha,Fibra,8
+MG,3154705,Ribeirão Vermelho,Fibra,8
+MG,3154804,Rio Acima,Radio,8
+MG,3154903,Rio Casca,Radio,8
+MG,3155207,Rio Espera,Radio,8
+MG,3155306,Rio Manso,Radio,8
+MG,3155405,Rio Novo,Radio,8
+MG,3155702,Rio Piracicaba,Fibra,8
+MG,3155801,Rio Pomba,Fibra,8
+MG,3155900,Rio Preto,Radio,8
+MG,3156007,Rio Vermelho,Radio,8
+MG,3156106,Ritápolis,Radio,8
+MG,3156205,Rochedo de Minas,Radio,8
+MG,3156304,Rodeiro,Radio,8
+MG,3156403,Romaria,Fibra,8
+MG,3156502,Rubelita,Radio,8
+MG,3156601,Rubim,Radio,8
+MG,3156809,Sabinópolis,Radio,8
+MG,3157104,Salto da Divisa,Radio,8
+MG,3157252,Santa Bárbara do Leste,Radio,8
+MG,3157278,Santa Bárbara do Monte Verde,Radio,8
+MG,3157302,Santa Bárbara do Tugúrio,Fibra,8
+MG,3157500,Santa Efigênia de Minas,Radio,8
+MG,3157658,Santa Helena de Minas,Radio,8
+MG,3157906,Santa Margarida,Radio,8
+MG,3158003,Santa Maria de Itabira,Radio,8
+MG,3158102,Santa Maria do Salto,Radio,8
+MG,3158201,Santa Maria do Suaçuí,Radio,8
+MG,3158300,Santana da Vargem,Fibra,8
+MG,3158508,Santana de Pirapama,Radio,8
+MG,3158607,Santana do Deserto,Radio,8
+MG,3158805,Santana do Jacaré,Radio,8
+MG,3158904,Santana do Manhuaçu,Radio,8
+MG,3159001,Santana do Riacho,Radio,8
+MG,3159100,Santana dos Montes,Radio,8
+MG,3159209,Santa Rita de Caldas,Fibra,8
+MG,3159308,Santa Rita de Jacutinga,Radio,8
+MG,3159357,Santa Rita de Minas,Radio,8
+MG,3159506,Santa Rita do Itueto,Radio,8
+MG,3159704,Santa Rosa da Serra,Radio,8
+MG,3159902,Santo Antônio do Amparo,Fibra,8
+MG,3160009,Santo Antônio do Aventureiro,Radio,8
+MG,3160306,Santo Antônio do Jacinto,Radio,8
+MG,3160504,Santo Antônio do Rio Abaixo,Radio,8
+MG,3160603,Santo Hipólito,Radio,8
+MG,3160801,São Bento Abade,Radio,8
+MG,3160900,São Brás do Suaçuí,Radio,8
+MG,3161007,São Domingos do Prata,Fibra,8
+MG,3161056,São Félix de Minas,Radio,8
+MG,3161205,São Francisco de Paula,Radio,8
+MG,3161502,São Geraldo,Fibra,8
+MG,3161650,São Geraldo do Baixio,Radio,8
+MG,3161700,São Gonçalo do Abaeté,Radio,8
+MG,3161809,São Gonçalo do Pará,Radio,8
+MG,3161908,São Gonçalo do Rio Abaixo,Fibra,8
+MG,3162203,São João Batista do Glória,Radio,8
+MG,3162559,São João do Manhuaçu,Radio,8
+MG,3162575,São João do Manteninha,Radio,8
+MG,3162609,São João do Oriente,Radio,8
+MG,3162658,São João do Pacuí,Radio,8
+MG,3162708,São João do Paraíso,Radio,16
+MG,3162807,São João Evangelista,Radio,8
+MG,3163003,São José da Safira,Radio,8
+MG,3163201,São José do Alegre,Fibra,8
+MG,3163300,São José do Divino,Radio,8
+MG,3163409,São José do Goiabal,Radio,8
+MG,3163508,São José do Jacuri,Radio,8
+MG,3163805,São Miguel do Anta,Radio,8
+MG,3163904,São Pedro da União,Radio,8
+MG,3164001,São Pedro dos Ferros,Radio,8
+MG,3164100,São Pedro do Suaçuí,Radio,8
+MG,3164209,São Romão,Radio,8
+MG,3164308,São Roque de Minas,Radio,8
+MG,3164407,São Sebastião da Bela Vista,Fibra,8
+MG,3164431,São Sebastião da Vargem Alegre,Radio,8
+MG,3164472,São Sebastião do Anta,Radio,8
+MG,3164506,São Sebastião do Maranhão,Radio,8
+MG,3164605,São Sebastião do Oeste,Radio,8
+MG,3164902,São Sebastião do Rio Verde,Fibra,8
+MG,3165008,São Tiago,Radio,8
+MG,3165107,São Tomás de Aquino,Radio,8
+MG,3165206,São Thomé das Letras,Radio,8
+MG,3165305,São Vicente de Minas,Radio,8
+MG,3165404,Sapucaí-Mirim,Radio,8
+MG,3165578,Senador Amaral,Radio,8
+MG,3165701,Senador Firmino,Radio,8
+MG,3166105,Senhora do Porto,Radio,8
+MG,3166204,Senhora dos Remédios,Radio,8
+MG,3166501,Serra Azul de Minas,Radio,8
+MG,3166709,Serra dos Aimorés,Radio,8
+MG,3166808,Serra do Salitre,Radio,8
+MG,3166907,Serrania,Radio,8
+MG,3167004,Serranos,Fibra,8
+MG,3167509,Simão Pereira,Fibra,8
+MG,3167608,Simonésia,Radio,8
+MG,3167707,Sobrália,Radio,8
+MG,3167806,Soledade de Minas,Fibra,8
+MG,3167905,Tabuleiro,Radio,8
+MG,3168101,Tapira,Radio,8
+MG,3168309,Taquaraçu de Minas,Radio,8
+MG,3168408,Tarumirim,Radio,8
+MG,3168507,Teixeiras,Radio,8
+MG,3168804,Tiradentes,Fibra,8
+MG,3168903,Tiros,Radio,8
+MG,3169000,Tocantins,Fibra,8
+MG,3169208,Tombos,Radio,8
+MG,3169703,Turmalina,Radio,8
+MG,3170008,Ubaí,Radio,8
+MG,3170057,Ubaporanga,Radio,8
+MG,3170305,Umburatiba,Radio,8
+MG,3170503,Urucânia,Radio,8
+MG,3170578,Vargem Alegre,Radio,8
+MG,3170602,Vargem Bonita,Radio,8
+MG,3170651,Vargem Grande do Rio Pardo,Radio,8
+MG,3171071,Veredinha,Radio,8
+MG,3171402,Vieiras,Radio,8
+MG,3171600,Virgem da Lapa,Radio,8
+MG,3171709,Virgínia,Radio,8
+MG,3171808,Virginópolis,Radio,8
+MG,3172103,Volta Grande,Radio,8
+ES,3200136,Águia Branca,Fibra,8
+ES,3200169,Água Doce do Norte,Radio,8
+ES,3200300,Alfredo Chaves,Radio,8
+ES,3200359,Alto Rio Novo,Radio,8
+ES,3200508,Apiacá,Radio,8
+ES,3200706,Atilio Vivacqua,Radio,8
+ES,3201001,Boa Esperança,Radio,8
+ES,3201100,Bom Jesus do Norte,Fibra,8
+ES,3201159,Brejetuba,Radio,8
+ES,3201704,Conceição do Castelo,Radio,8
+ES,3202009,Dores do Rio Preto,Radio,8
+ES,3202207,Fundão,Fibra,8
+ES,3202256,Governador Lindenberg,Radio,8
+ES,3202504,Ibiraçu,Fibra,8
+ES,3202603,Iconha,Fibra,8
+ES,3202652,Irupi,Radio,8
+ES,3202702,Itaguaçu,Radio,8
+ES,3202900,Itarana,Radio,8
+ES,3203106,Jerônimo Monteiro,Fibra,8
+ES,3203130,João Neiva,Fibra,8
+ES,3203304,Mantenópolis,Radio,8
+ES,3203346,Marechal Floriano,Radio,8
+ES,3203353,Marilândia,Radio,8
+ES,3203502,Montanha,Radio,8
+ES,3203601,Mucurici,Radio,8
+ES,3203700,Muniz Freire,Radio,8
+ES,3203809,Muqui,Radio,8
+ES,3204005,Pancas,Fibra,100
+ES,3204203,Piúma,Fibra,1000
+ES,3204252,Ponto Belo,Radio,8
+ES,3204302,Presidente Kennedy,Radio,8
+ES,3204351,Rio Bananal,Radio,8
+ES,3204401,Rio Novo do Sul,Fibra,8
+ES,3204500,Santa Leopoldina,Radio,8
+ES,3204658,São Domingos do Norte,Fibra,8
+ES,3204807,São José do Calçado,Fibra,8
+ES,3204955,São Roque do Canaã,Fibra,8
+ES,3205150,Vila Pavão,Fibra,8
+ES,3205176,Vila Valério,Radio,8
+RJ,3300159,Aperibé,Fibra,8
+RJ,3300225,Areal,Fibra,8
+RJ,3300902,Cambuci,Fibra,8
+RJ,3300936,Carapebus,Fibra,8
+RJ,3300951,Comendador Levy Gasparian,Fibra,8
+RJ,3301157,Cardoso Moreira,Fibra,8
+RJ,3301207,Carmo,Radio,8
+RJ,3301603,Duas Barras,Radio,8
+RJ,3301801,Engenheiro Paulo de Frontin,Fibra,8
+RJ,3302056,Italva,Fibra,8
+RJ,3302809,Mendes,Fibra,8
+RJ,3304102,Porciúncula,Fibra,8
+RJ,3304110,Porto Real,Fibra,8
+RJ,3304128,Quatis,Fibra,8
+RJ,3304409,Rio Claro,Radio,8
+RJ,3304508,Rio das Flores,Fibra,8
+RJ,3304607,Santa Maria Madalena,Radio,8
+RJ,3305133,São José de Ubá,Fibra,8
+RJ,3305307,São Sebastião do Alto,Fibra,8
+RJ,3305406,Sapucaia,Radio,8
+RJ,3305703,Sumidouro,Radio,8
+RJ,3305901,Trajano de Moraes,Radio,8
+RJ,3306156,Varre-Sai,Fibra,8
+PR,4100202,Adrianópolis,Radio,8
+PR,4106555,Corumbataí do Sul,Fibra,8
+PR,4107124,Diamante do Sul,Fibra,8
+PR,4107553,Farol,Fibra,8
+PR,4108650,Goioxim,Radio,8
+PR,4110656,Iracema do Oeste,Radio,8
+PR,4113254,Laranjal,Radio,8
+PR,4115903,Mirador,Radio,8
+PR,4117271,Nova Tebas,Radio,8
+PR,4117297,Novo Itacolomi,Radio,8
+PR,4118303,Paranapoema,Fibra,8
+PR,4123956,Santa Mônica,Radio,8
+PR,4125902,São Pedro do Paraná,Fibra,8
+PR,4127809,Tomazina,Fibra,8
+SC,4212502,Penha,Fibra,16
+SC,4218251,Timbó Grande,Fibra,8
+RS,4300901,Aratiba,Fibra,8
+RS,4301958,Barra Funda,Fibra,8
+RS,4302600,Braga,Radio,8
+RS,4303400,Caiçara,Radio,8
+RS,4303673,Campestre da Serra,Radio,8
+RS,4306551,Dom Pedro de Alcântara,Radio,8
+RS,4307203,Erval Grande,Fibra,8
+RS,4310751,Ivorá,Fibra,8
+RS,4311502,Lavras do Sul,Radio,8
+RS,4311601,Liberato Salzano,Radio,8
+RS,4311643,Linha Nova,Fibra,8
+RS,4312351,Montauri,Fibra,8
+RS,4312450,Morro Redondo,Radio,8
+RS,4314498,Pinheirinho do Vale,Fibra,8
+RS,4314753,Poço das Antas,Fibra,8
+RS,4319356,São Pedro da Serra,Fibra,8
+RS,4319372,São Pedro do Butiá,Radio,8
+RS,4321329,Taquaruçu do Sul,Fibra,8
+RS,4321493,Toropi,Fibra,8
+RS,4321626,Travesseiro,Radio,8
+RS,4321634,Três Arroios,Fibra,8
+RS,4321832,Três Forquilhas,Fibra,8
+RS,4322558,Vanini,Fibra,8
+MS,5004908,Jaraguari,Fibra,8
+MS,5005103,Jateí,Fibra,8
+MS,5007505,Rochedo,Radio,8
+MT,5100805,Apiacás,Fibra,8
+MT,5101001,Araguaiana,Radio,8
+MT,5101407,Aripuanã,Radio,8
+MT,5101902,Brasnorte,Fibra,8
+MT,5102603,Campinápolis,Radio,8
+MT,5102850,Castanheira,Radio,8
+MT,5103908,General Carneiro,Radio,8
+MT,5106158,Nova Bandeirantes,Radio,8
+MT,5106240,Nova Ubiratã,Radio,8
+MT,5106273,Novo Horizonte do Norte,Radio,8
+MT,5106281,Novo São Joaquim,Radio,8
+MT,5106802,Porto dos Gaúchos,Radio,8
+MT,5107354,São José do Xingu,Radio,8
+MT,5108204,Torixoréu,Radio,8
+GO,5200555,Alto Horizonte,Radio,8
+GO,5200902,Amorinópolis,Radio,8
+GO,5201504,Aporé,Radio,8
+GO,5202353,Arenópolis,Fibra,8
+GO,5202809,Avelinópolis,Radio,8
+GO,5204201,Cachoeira de Goiás,Radio,8
+GO,5204557,Caldazinha,Radio,8
+GO,5204656,Campinaçu,Fibra,8
+GO,5207105,Diorama,Fibra,8
+GO,5207535,Faina,Radio,8
+GO,5208301,Divinópolis de Goiás,Fibra,8
+GO,5211602,Ivolândia,Radio,8
+GO,5212600,Mairipotaba,Radio,8
+GO,5214101,Mutunópolis,Radio,8
+GO,5215405,Ouro Verde de Goiás,Radio,8
+GO,5216007,Panamá,Radio,8
+GO,5216452,Perolândia,Radio,8
+GO,5216908,Pilar de Goiás,Fibra,8
+GO,5219357,Santa Isabel,Radio,8
+GO,5219506,Santa Rosa de Goiás,Radio,8
+GO,5219712,Santo Antônio da Barra,Radio,8
+GO,5219803,São Domingos,Radio,8
+GO,5221452,Trombas,Radio,8
+GO,5221577,Uirapuru,Radio,8
+PA,1502905,Curuçá,Radio,16
+PA,1503077,Garrafão do Norte,Radio,16
+PA,1503507,Irituia,Radio,16
+PA,1504901,Muaná,Radio,16
+PA,1508035,Tracuateua,Radio,16
+MA,2100303,Aldeias Altas,Radio,16
+MA,2100709,Anajatuba,Radio,16
+MA,2102903,Carutapera,Radio,16
+MA,2106607,Matões,Radio,16
+PI,2206209,Miguel Alves,Radio,16
+CE,2301703,Aurora,Radio,16
+CE,2304251,Cruz,Fibra,16
+RN,2412500,São Miguel,Radio,16
+PB,2507002,Itaporanga,Radio,16
+PE,2600302,Agrestina,Radio,16
+PE,2600708,Aliança,Fibra,16
+PE,2600906,Amaraji,Radio,16
+PE,2603702,Canhotinho,Fibra,16
+PE,2607307,Ipubi,Radio,16
+PE,2607505,Itaíba,Radio,16
+PE,2609709,Orobó,Radio,16
+PE,2610202,Panelas,Radio,16
+PE,2611507,Quipapá,Radio,16
+PE,2613206,São João,Fibra,16
+PE,2615805,Tupanatinga,Fibra,16
+AL,2702355,Craíbas,Radio,16
+AL,2702900,Girau do Ponciano,Radio,16
+AL,2703106,Igaci,Fibra,16
+AL,2704005,Junqueiro,Fibra,16
+AL,2705002,Mata Grande,Radio,16
+AL,2705705,Olho d'Água das Flores,Radio,16
+AL,2706406,Pão de Açúcar,Radio,16
+AL,2708402,São José da Tapera,Radio,16
+SE,2805406,Poço Redondo,Radio,16
+SE,2805604,Porto da Folha,Radio,16
+SE,2806206,Salgado,Fibra,16
+BA,2903706,Boa Nova,Radio,16
+BA,2905008,Caculé,Radio,16
+BA,2909208,Coronel João Sá,Radio,16
+BA,2909307,Correntina,Radio,16
+BA,2923803,Paripiranga,Radio,16
+BA,2924702,Piripá,Radio,16
+BA,2931806,Tremedal,Radio,16
+MG,3141801,Minas Novas,Radio,16
+MG,3170909,Varzelândia,Radio,16
+ES,3205036,Vargem Alta,Radio,16
+SC,4213609,Porto União,Fibra,16
+PA,1500909,Augusto Corrêa,Fibra,32
+PA,1502756,Concórdia do Pará,Radio,16
+PA,1504307,Maracanã,Radio,16
+PA,1505700,Ponta de Pedras,Radio,16
+MA,2100477,Alto Alegre do Pindaré,Fibra,16
+MA,2102200,Buriti,Radio,16
+MA,2105104,Icatu,Radio,16
+MA,2106706,Mirador,Radio,16
+MA,2108454,Peritoró,Fibra,16
+MA,2111003,São João Batista,Radio,16
+MA,2112407,Turiaçu,Radio,16
+PI,2202307,Canto do Buriti,Radio,16
+CE,2301604,Assaré,Fibra,16
+CE,2302305,Bela Cruz,Fibra,16
+CE,2303204,Caririaçu,Fibra,16
+CE,2304350,Forquilha,Radio,16
+CE,2304954,Guaiúba,Fibra,16
+CE,2305308,Ibiapina,Fibra,16
+CE,2305605,Independência,Radio,16
+CE,2307403,Jucás,Fibra,16
+CE,2309409,Novo Oriente,Radio,16
+CE,2309458,Ocara,Fibra,16
+CE,2310258,Paraipaba,Fibra,16
+CE,2310308,Parambu,Radio,16
+CE,2311264,Quiterianópolis,Radio,16
+CE,2312007,Santana do Acaraú,Fibra,16
+CE,2312700,Senador Pompeu,Fibra,16
+CE,2313203,Tamboril,Radio,16
+RN,2401008,Apodi,Radio,16
+RN,2408904,Parelhas,Radio,16
+PB,2504306,Catolé do Rocha,Radio,16
+PB,2505105,Cuité,Radio,16
+PB,2509701,Monteiro,Radio,16
+PE,2600807,Altinho,Radio,16
+PE,2604601,Condado,Radio,16
+PE,2605608,Flores,Radio,16
+PE,2606101,Glória do Goitá,Radio,16
+PE,2606606,Ibimirim,Radio,16
+PE,2610806,Pedra,Radio,16
+PE,2611309,Pombos,Fibra,16
+PE,2611903,Rio Formoso,Fibra,16
+PE,2615003,Taquaritinga do Norte,Fibra,16
+AL,2701001,Boca da Mata,Radio,16
+AL,2701308,Cajueiro,Fibra,16
+AL,2703205,Igreja Nova,Radio,16
+AL,2703809,Joaquim Gomes,Radio,16
+AL,2709202,Traipu,Radio,16
+SE,2801405,Carira,Radio,16
+SE,2805505,Poço Verde,Radio,16
+SE,2807600,Umbaúba,Radio,16
+BA,2904100,Boquira,Radio,16
+BA,2906204,Canarana,Radio,16
+BA,2907103,Carinhanha,Radio,16
+BA,2911808,Guaratinga,Radio,16
+BA,2918803,Laje,Radio,16
+BA,2923407,Palmas de Monte Alto,Radio,16
+BA,2925907,Quijingue,Radio,16
+BA,2926202,Riachão das Neves,Radio,16
+BA,2929107,São Felipe,Radio,16
+BA,2932101,Ubaíra,Radio,16
+MG,3109303,Buritis,Radio,16
+MG,3118809,Coração de Jesus,Radio,16
+MG,3155603,Rio Pardo de Minas,Radio,16
+MG,3162401,São João da Ponte,Radio,16
+PA,1503705,Itupiranga,Satelite,32
+PA,1504406,Marapanim,Radio,16
+MA,2100907,Araioses,Fibra,34
+MA,2102606,Cândido Mendes,Radio,16
+MA,2106508,Matinha,Radio,16
+MA,2108900,Poção de Pedras,Radio,16
+MA,2109452,Raposa,Fibra,16
+MA,2112100,Timbiras,Fibra,16
+CE,2302701,Campos Sales,Fibra,16
+CE,2304004,Coreaú,Fibra,16
+CE,2304301,Farias Brito,Fibra,16
+CE,2305001,Guaraciaba do Norte,Fibra,16
+CE,2307809,Marco,Fibra,16
+CE,2308302,Milagres,Fibra,16
+CE,2311702,Reriutaba,Radio,16
+CE,2313104,Tabuleiro do Norte,Radio,16
+CE,2313609,Ubajara,Fibra,16
+RN,2402204,Canguaretama,Fibra,16
+RN,2407807,Monte Alegre,Radio,16
+RN,2408201,Nísia Floresta,Fibra,16
+RN,2414407,Touros,Radio,16
+PB,2503001,Caaporã,Radio,16
+PB,2504603,Conde,Fibra,16
+PB,2512309,Princesa Isabel,Radio,16
+PE,2602001,Bodocó,Radio,16
+PE,2605400,Feira Nova,Radio,16
+PE,2607653,Itambé,Radio,16
+PE,2608107,João Alfredo,Fibra,16
+PE,2608503,Lagoa de Itaenga,Radio,16
+PE,2608750,Lagoa Grande,Radio,16
+PE,2610400,Parnamirim,Radio,16
+PE,2610509,Passira,Radio,16
+PE,2613503,São José do Belmonte,Radio,16
+PE,2614204,Sirinhaém,Radio,16
+PE,2616308,Vicência,Radio,16
+AL,2707107,Piranhas,Radio,16
+AL,2707305,Porto Calvo,Fibra,16
+AL,2708303,São José da Laje,Radio,16
+AL,2708808,São Sebastião,Fibra,16
+SE,2803203,Itaporanga d'Ajuda,Fibra,16
+SE,2804508,Nossa Senhora da Glória,Radio,16
+BA,2905909,Campo Alegre de Lourdes,Radio,16
+BA,2906808,Cansanção,Fibra,16
+BA,2911105,Formosa do Rio Preto,Radio,16
+BA,2911600,Governador Mangabeira,Fibra,16
+BA,2912707,Ibirapitanga,Fibra,16
+BA,2922409,Mutuípe,Radio,16
+BA,2928406,Santa Rita de Cássia,Radio,16
+MG,3113008,Caraí,Radio,16
+MG,3139300,Manga,Radio,16
+ES,3202454,Ibatiba,Radio,16
+AC,1200302,Feijó,Fibra,16
+AC,1200609,Tarauacá,Fibra,16
+AM,1301852,Iranduba,Radio,32
+AM,1302553,Manaquiri,Radio,16
+AM,1303536,Presidente Figueiredo,Fibra,16
+RR,1400209,Caracaraí,Fibra,16
+RR,1400472,Rorainópolis,Fibra,16
+PA,1501907,Bujaru,Radio,16
+PA,1502301,Capitão Poço,Radio,32
+PA,1503200,Igarapé-Açu,Radio,16
+PA,1503457,Ipixuna do Pará,Fibra,32
+PA,1504059,Mãe do Rio,Fibra,16
+PA,1504208,Marabá,Satelite,16
+PA,1506302,Salvaterra,Radio,16
+PA,1506609,Santa Maria do Pará,Fibra,16
+PA,1506807,Santarém,Satelite,16
+PA,1507003,Santo Antônio do Tauá,Radio,16
+PA,1507904,Soure,Radio,16
+PA,1508126,Ulianópolis,Fibra,100
+PA,1508308,Viseu,Radio,32
+AP,1600303,Macapá,Satelite,16
+AP,1600600,Santana,Satelite,16
+MA,2100204,Alcântara,Radio,16
+MA,2100436,Alto Alegre do Maranhão,Fibra,16
+MA,2100956,Arame,Radio,16
+MA,2101004,Arari,Radio,16
+MA,2102002,Bom Jardim,Fibra,73
+MA,2102036,Bom Jesus das Selvas,Fibra,16
+MA,2102101,Brejo,Fibra,16
+MA,2102309,Buriti Bravo,Radio,16
+MA,2102804,Carolina,Radio,16
+MA,2103174,Centro Novo do Maranhão,Radio,16
+MA,2103802,Dom Pedro,Fibra,16
+MA,2104008,Esperantinópolis,Radio,16
+MA,2104677,Governador Nunes Freire,Fibra,16
+MA,2105005,Humberto de Campos,Radio,16
+MA,2105427,Itinga do Maranhão,Fibra,16
+MA,2105500,João Lisboa,Fibra,16
+MA,2106904,Monção,Radio,16
+MA,2107357,Nova Olinda do Maranhão,Fibra,16
+MA,2107803,Parnarama,Radio,16
+MA,2108306,Penalva,Radio,16
+MA,2108504,Pindaré-Mirim,Fibra,16
+MA,2108702,Pio XII,Fibra,16
+MA,2109502,Riachão,Radio,16
+MA,2109601,Rosário,Fibra,100
+MA,2109809,Santa Helena,Fibra,100
+MA,2110039,Santa Luzia do Paruá,Fibra,16
+MA,2110104,Santa Quitéria do Maranhão,Fibra,16
+MA,2110203,Santa Rita,Fibra,16
+MA,2110500,São Bento,Radio,34
+MA,2110609,São Bernardo,Fibra,16
+MA,2110708,São Domingos do Maranhão,Radio,16
+MA,2111102,São João dos Patos,Radio,16
+MA,2112308,Tuntum,Fibra,32
+MA,2112902,Vitória do Mearim,Fibra,16
+MA,2113009,Vitorino Freire,Fibra,16
+PI,2201507,Batalha,Radio,16
+PI,2202000,Buriti dos Lopes,Fibra,16
+PI,2202703,Cocal,Radio,16
+PI,2202901,Corrente,Radio,16
+PI,2203701,Esperantina,Radio,16
+PI,2205508,José de Freitas,Fibra,16
+PI,2205706,Luís Correia,Fibra,16
+PI,2205805,Luzilândia,Fibra,16
+PI,2207009,Oeiras,Radio,16
+PI,2207900,Pedro II,Radio,16
+PI,2208304,Piracuruca,Radio,16
+PI,2210003,São João do Piauí,Radio,16
+PI,2210607,São Raimundo Nonato,Radio,16
+PI,2211308,Valença do Piauí,Fibra,16
+CE,2300754,Amontada,Fibra,32
+CE,2301208,Aracoiaba,Fibra,16
+CE,2301950,Barreira,Fibra,16
+CE,2302107,Baturité,Fibra,16
+CE,2303600,Catarina,Radio,16
+CE,2303808,Cedro,Radio,16
+CE,2306108,Irauçuba,Radio,16
+CE,2306256,Itaitinga,Fibra,16
+CE,2306900,Jaguaribe,Radio,16
+CE,2307007,Jaguaruana,Radio,16
+CE,2308005,Massapê,Fibra,16
+CE,2308401,Missão Velha,Fibra,16
+CE,2309300,Nova Russas,Radio,16
+CE,2309508,Orós,Radio,16
+CE,2310209,Paracuru,Fibra,16
+CE,2310704,Pentecoste,Radio,16
+CE,2310852,Pindoretama,Fibra,16
+CE,2311603,Redenção,Fibra,16
+CE,2313807,Uruburetama,Fibra,16
+RN,2401107,Areia Branca,Radio,16
+RN,2403608,Extremoz,Radio,16
+RN,2404200,Goianinha,Fibra,16
+RN,2407203,Macau,Radio,16
+RN,2408300,Nova Cruz,Radio,16
+RN,2409407,Pau dos Ferros,Radio,16
+RN,2411205,Santa Cruz,Radio,16
+RN,2411502,Santo Antônio,Radio,16
+PB,2500304,Alagoa Grande,Radio,16
+PB,2500403,Alagoa Nova,Radio,16
+PB,2501005,Araruna,Radio,16
+PB,2501104,Areia,Radio,16
+PB,2506004,Esperança,Fibra,16
+PB,2506905,Itabaiana,Radio,16
+PB,2508307,Lagoa Seca,Fibra,16
+PB,2509107,Mari,Fibra,16
+PB,2512101,Pombal,Radio,16
+PB,2512507,Queimadas,Radio,32
+PB,2512903,Rio Tinto,Radio,16
+PB,2513901,São Bento,Radio,16
+PB,2516003,Solânea,Fibra,16
+PE,2600104,Afogados da Ingazeira,Radio,16
+PE,2600401,Água Preta,Radio,16
+PE,2601607,Belém do São Francisco,Fibra,16
+PE,2602209,Bom Jardim,Fibra,32
+PE,2602308,Bonito,Radio,16
+PE,2603009,Cabrobó,Radio,16
+PE,2604205,Catende,Radio,16
+PE,2605004,Cupira,Radio,16
+PE,2605103,Custódia,Fibra,16
+PE,2605301,Exu,Radio,16
+PE,2605707,Floresta,Fibra,16
+PE,2605905,Gameleira,Radio,16
+PE,2607752,Itapissuma,Fibra,16
+PE,2608800,Lajedo,Radio,16
+PE,2609006,Macaparana,Radio,16
+PE,2609501,Nazaré da Mata,Fibra,16
+PE,2611002,Petrolândia,Radio,16
+PE,2611705,Riacho das Almas,Radio,16
+PE,2612406,Sanharó,Radio,16
+PE,2612604,Santa Maria da Boa Vista,Radio,32
+PE,2613107,São Caitano,Fibra,16
+PE,2613602,São José do Egito,Radio,16
+PE,2614105,Sertânia,Radio,16
+PE,2614600,Tabira,Radio,16
+PE,2614808,Tacaratu,Fibra,16
+PE,2615607,Trindade,Radio,16
+AL,2700409,Atalaia,Fibra,32
+AL,2701407,Campo Alegre,Radio,32
+AL,2702306,Coruripe,Radio,32
+AL,2704401,Major Isidoro,Radio,16
+AL,2704500,Maragogi,Fibra,16
+AL,2705101,Matriz de Camaragibe,Fibra,16
+AL,2705507,Murici,Radio,16
+AL,2706901,Pilar,Fibra,16
+AL,2708006,Santana do Ipanema,Radio,32
+AL,2708501,São Luís do Quitunde,Fibra,16
+AL,2709152,Teotônio Vilela,Fibra,32
+SE,2800209,Aquidabã,Radio,16
+SE,2800670,Boquim,Fibra,16
+SE,2801207,Canindé de São Francisco,Radio,16
+SE,2801306,Capela,Fibra,16
+SE,2803005,Itabaianinha,Radio,16
+SE,2803609,Laranjeiras,Fibra,16
+SE,2804409,Neópolis,Radio,16
+SE,2804607,Nossa Senhora das Dores,Radio,16
+SE,2805703,Propriá,Fibra,16
+BA,2900801,Alcobaça,Radio,16
+BA,2901007,Amargosa,Radio,16
+BA,2902104,Araci,Radio,32
+BA,2902807,Barra da Estiva,Radio,16
+BA,2903409,Belmonte,Radio,16
+BA,2903508,Belo Campo,Radio,16
+BA,2904704,Buerarema,Fibra,16
+BA,2904902,Cachoeira,Fibra,16
+BA,2905602,Camacan,Fibra,16
+BA,2905800,Camamu,Fibra,16
+BA,2906303,Canavieiras,Radio,16
+BA,2906709,Cândido Sales,Fibra,16
+BA,2906873,Capim Grosso,Fibra,16
+BA,2906907,Caravelas,Radio,16
+BA,2907301,Castro Alves,Radio,16
+BA,2907806,Cícero Dantas,Fibra,16
+BA,2908002,Coaraci,Fibra,16
+BA,2908507,Conceição do Jacuípe,Fibra,16
+BA,2908606,Conde,Fibra,16
+BA,2908903,Coração de Maria,Radio,16
+BA,2909901,Curaçá,Radio,16
+BA,2910404,Encruzilhada,Radio,32
+BA,2910602,Esplanada,Fibra,16
+BA,2911204,Gandu,Fibra,16
+BA,2911907,Iaçu,Fibra,16
+BA,2912103,Ibicaraí,Fibra,16
+BA,2912905,Ibirataia,Radio,16
+BA,2913200,Ibotirama,Radio,16
+BA,2913507,Iguaí,Radio,16
+BA,2913705,Inhambupe,Radio,16
+BA,2914505,Irará,Radio,16
+BA,2914653,Itabela,Fibra,16
+BA,2914901,Itacaré,Radio,16
+BA,2915502,Itajuípe,Radio,16
+BA,2915809,Itambé,Fibra,16
+BA,2916807,Itarantim,Radio,16
+BA,2917102,Itororó,Fibra,16
+BA,2917300,Ituberá,Fibra,16
+BA,2917706,Jaguarari,Radio,16
+BA,2918100,Jeremoabo,Fibra,100
+BA,2918308,Jitaúna,Fibra,16
+BA,2918357,João Dourado,Radio,16
+BA,2919157,Lapão,Radio,16
+BA,2919553,Luís Eduardo Magalhães,Fibra,512
+BA,2919926,Madre de Deus,Radio,16
+BA,2920502,Maracás,Radio,16
+BA,2921104,Medeiros Neto,Radio,16
+BA,2921203,Miguel Calmon,Radio,16
+BA,2921500,Monte Santo,Radio,32
+BA,2921708,Morro do Chapéu,Radio,16
+BA,2922003,Mucuri,Radio,16
+BA,2922300,Muritiba,Fibra,16
+BA,2922508,Nazaré,Fibra,16
+BA,2922904,Nova Soure,Radio,16
+BA,2923001,Nova Viçosa,Fibra,60
+BA,2923100,Olindina,Fibra,16
+BA,2923605,Paramirim,Radio,16
+BA,2923704,Paratinga,Radio,16
+BA,2924405,Pilão Arcado,Radio,16
+BA,2924801,Piritiba,Radio,16
+BA,2925006,Planalto,Fibra,16
+BA,2925204,Pojuca,Fibra,16
+BA,2925501,Prado,Radio,16
+BA,2925758,Presidente Tancredo Neves,Fibra,16
+BA,2925808,Queimadas,Radio,16
+BA,2926004,Remanso,Fibra,36
+BA,2926301,Riachão do Jacuípe,Radio,16
+BA,2926400,Riacho de Santana,Radio,16
+BA,2927002,Rio Real,Radio,32
+BA,2927200,Ruy Barbosa,Radio,16
+BA,2927507,Santa Bárbara,Radio,16
+BA,2927705,Santa Cruz Cabrália,Radio,16
+BA,2928000,Santaluz,Fibra,16
+BA,2928208,Santana,Radio,16
+BA,2929206,São Francisco do Conde,Fibra,16
+BA,2929305,São Gonçalo dos Campos,Fibra,16
+BA,2930204,Sento Sé,Radio,16
+BA,2930774,Sobradinho,Radio,16
+BA,2931004,Tanhaçu,Radio,16
+BA,2931202,Taperoá,Fibra,16
+BA,2932002,Uauá,Radio,16
+BA,2932309,Ubatã,Fibra,16
+BA,2932705,Uruçuca,Radio,16
+BA,2933000,Valente,Radio,16
+BA,2933505,Wenceslau Guimarães,Fibra,16
+MG,3101102,Aimorés,Fibra,16
+MG,3101706,Almenara,Fibra,50
+MG,3103405,Araçuaí,Radio,16
+MG,3105400,Barão de Cocais,Radio,16
+MG,3105905,Barroso,Radio,16
+MG,3106309,Belo Oriente,Fibra,16
+MG,3108602,Brasília de Minas,Radio,16
+MG,3109402,Buritizeiro,Radio,16
+MG,3111606,Campos Gerais,Fibra,16
+MG,3112307,Capelinha,Radio,16
+MG,3113206,Carandaí,Fibra,16
+MG,3113701,Carlos Chagas,Radio,16
+MG,3114204,Carmo do Cajuru,Fibra,16
+MG,3114402,Carmo do Rio Claro,Radio,16
+MG,3116605,Cláudio,Radio,16
+MG,3118403,Conselheiro Pena,Fibra,16
+MG,3119104,Corinto,Fibra,16
+MG,3122009,Divino,Radio,16
+MG,3124203,Espera Feliz,Radio,16
+MG,3124302,Espinosa,Radio,16
+MG,3125101,Extrema,Fibra,16
+MG,3126703,Francisco Sá,Fibra,16
+MG,3128006,Guanhães,Radio,16
+MG,3128303,Guaranésia,Radio,16
+MG,3129509,Ibiá,Fibra,16
+MG,3130101,Igarapé,Fibra,16
+MG,3130903,Inhapim,Radio,16
+MG,3132503,Itamarandiba,Radio,16
+MG,3132701,Itambacuri,Fibra,16
+MG,3133303,Itaobim,Fibra,16
+MG,3133501,Itapecerica,Radio,16
+MG,3134905,Jacutinga,Radio,16
+MG,3135050,Jaíba,Radio,16
+MG,3135803,Jequitinhonha,Radio,16
+MG,3136652,Juatuba,Fibra,16
+MG,3137700,Lajinha,Radio,16
+MG,3139003,Machado,Fibra,100
+MG,3139508,Manhumirim,Radio,16
+MG,3139607,Mantena,Radio,16
+MG,3140704,Mateus Leme,Fibra,16
+MG,3141405,Medina,Fibra,16
+MG,3143401,Monte Sião,Radio,16
+MG,3144003,Mutum,Radio,16
+MG,3144102,Muzambinho,Fibra,16
+MG,3144607,Nepomuceno,Radio,16
+MG,3145307,Novo Cruzeiro,Radio,16
+MG,3146008,Ouro Fino,Radio,16
+MG,3147204,Paraguaçu,Radio,16
+MG,3147402,Paraopeba,Fibra,16
+MG,3148707,Pedra Azul,Radio,16
+MG,3149903,Perdões,Fibra,16
+MG,3152006,Pompéu,Radio,16
+MG,3152204,Porteirinha,Radio,16
+MG,3154002,Raul Soares,Radio,16
+MG,3156908,Sacramento,Radio,16
+MG,3157005,Salinas,Fibra,100
+MG,3157203,Santa Bárbara,Radio,16
+MG,3158953,Santana do Paraíso,Radio,16
+MG,3160405,Santo Antônio do Monte,Fibra,16
+MG,3162005,São Gonçalo do Sapucaí,Fibra,16
+MG,3162104,São Gotardo,Fibra,16
+MG,3162922,São Joaquim de Bicas,Fibra,16
+MG,3162955,São José da Lapa,Fibra,16
+MG,3165537,Sarzedo,Fibra,16
+MG,3167103,Serro,Radio,16
+MG,3168002,Taiobeiras,Radio,16
+MG,3169356,Três Marias,Radio,16
+MG,3170800,Várzea da Palma,Radio,16
+MG,3172004,Visconde do Rio Branco,Fibra,155
+ES,3200102,Afonso Cláudio,Radio,16
+ES,3200409,Anchieta,Fibra,16
+ES,3200805,Baixo Guandu,Radio,16
+ES,3201605,Conceição da Barra,Radio,16
+ES,3201902,Domingos Martins,Radio,16
+ES,3202108,Ecoporanga,Radio,16
+ES,3202801,Itapemirim,Fibra,16
+ES,3203007,Iúna,Radio,16
+ES,3203056,Jaguaré,Fibra,16
+ES,3203403,Mimoso do Sul,Radio,16
+ES,3204054,Pedro Canário,Fibra,16
+ES,3204104,Pinheiros,Radio,16
+ES,3204559,Santa Maria de Jetibá,Radio,16
+ES,3204609,Santa Teresa,Radio,16
+ES,3205010,Sooretama,Fibra,16
+ES,3205069,Venda Nova do Imigrante,Radio,16
+RJ,3301306,Casimiro de Abreu,Fibra,16
+RJ,3301405,Conceição de Macabu,Fibra,16
+RJ,3302106,Itaocara,Fibra,16
+RJ,3303807,Paraty,Radio,16
+RJ,3303856,Paty do Alferes,Fibra,16
+RJ,3303955,Pinheiral,Fibra,16
+RJ,3304003,Piraí,Fibra,16
+RJ,3304151,Quissamã,Fibra,16
+RJ,3304805,São Fidélis,Fibra,16
+RJ,3305000,São João da Barra,Radio,16
+RJ,3305158,São José do Vale do Rio Preto,Fibra,16
+RJ,3305604,Silva Jardim,Fibra,16
+RJ,3305752,Tanguá,Fibra,16
+PR,4119954,Pontal do Paraná,Fibra,16
+PA,1500131,Abel Figueiredo,Satelite,32
+PA,1501501,Benevides,Fibra,32
+PA,1503309,Igarapé-Miri,Radio,64
+PA,1506203,Salinópolis,Radio,32
+PA,1506500,Santa Isabel do Pará,Fibra,80
+PA,1507607,São Miguel do Guamá,Fibra,32
+PA,1508209,Vigia,Radio,32
+MA,2100600,Amarante do Maranhão,Radio,32
+MA,2103604,Coroatá,Fibra,64
+MA,2104057,Estreito,Fibra,32
+MA,2104800,Grajaú,Fibra,32
+MA,2108207,Pedreiras,Fibra,32
+MA,2109106,Presidente Dutra,Radio,32
+MA,2111508,São Mateus do Maranhão,Fibra,32
+MA,2112506,Tutóia,Fibra,32
+MA,2114007,Zé Doca,Fibra,32
+PI,2202208,Campo Maior,Radio,32
+PI,2209708,São Francisco do Piauí,Radio,32
+CE,2306306,Itapagé,Fibra,32
+CE,2307601,Limoeiro do Norte,Radio,32
+RN,2400208,Açu,Fibra,32
+RN,2403103,Currais Novos,Radio,32
+PB,2506301,Guarabira,Fibra,32
+PB,2508901,Mamanguape,Fibra,32
+PB,2515302,Sapé,Fibra,32
+PE,2600500,Águas Belas,Radio,32
+PE,2601409,Barreiros,Fibra,32
+PE,2608909,Limoeiro,Fibra,32
+PE,2611804,Ribeirão,Radio,32
+PE,2614501,Surubim,Fibra,100
+PE,2615300,Timbaúba,Radio,32
+PE,2615409,Toritama,Fibra,32
+AL,2702405,Delmiro Gouveia,Radio,32
+AL,2704708,Marechal Deodoro,Radio,32
+BA,2902708,Barra,Radio,32
+BA,2905206,Caetité,Radio,32
+BA,2913903,Ipiaú,Fibra,32
+BA,2917607,Jaguaquara,Fibra,32
+BA,2919504,Livramento de Nossa Senhora,Radio,32
+BA,2920601,Maragogipe,Radio,32
+BA,2926608,Ribeira do Pombal,Radio,32
+BA,2928109,Santa Maria da Vitória,Radio,32
+BA,2928802,Santo Estêvão,Radio,32
+BA,2929503,São Sebastião do Passé,Fibra,32
+BA,2929909,Seabra,Radio,32
+BA,2933604,Xique-Xique,Radio,32
+MG,3102605,Andradas,Radio,32
+MG,3107307,Bocaiúva,Fibra,32
+MG,3121605,Diamantina,Radio,32
+MG,3136306,João Pinheiro,Radio,32
+MG,3144300,Nanuque,Radio,32
+MG,3151206,Pirapora,Radio,32
+MG,3161106,São Francisco,Radio,32
+ES,3200904,Barra de São Francisco,Fibra,32
+RJ,3300803,Cachoeiras de Macacu,Radio,32
+AC,1200203,Cruzeiro do Sul,Fibra,64
+RR,1400100,Boa Vista,Fibra,64
+PA,1500107,Abaetetuba,Radio,64
+PA,1500206,Acará,Radio,64
+PA,1500602,Altamira,Fibra,64
+PA,1500800,Ananindeua,Fibra,64
+PA,1501303,Barcarena,Radio,64
+PA,1501709,Bragança,Radio,64
+PA,1504422,Marituba,Fibra,64
+PA,1504703,Moju,Radio,64
+PA,1505502,Paragominas,Radio,64
+PA,1505536,Parauapebas,Fibra,64
+PA,1508100,Tucuruí,Fibra,64
+MA,2101202,Bacabal,Fibra,64
+MA,2101400,Balsas,Radio,64
+MA,2101608,Barra do Corda,Radio,64
+MA,2101707,Barreirinhas,Radio,64
+MA,2102325,Buriticupu,Fibra,64
+MA,2103000,Caxias,Fibra,64
+MA,2103208,Chapadinha,Fibra,64
+MA,2103307,Codó,Fibra,64
+MA,2107506,Paço do Lumiar,Fibra,64
+MA,2108603,Pinheiro,Radio,64
+MA,2110005,Santa Luzia,Radio,64
+MA,2112209,Timon,Fibra,64
+PI,2208403,Piripiri,Radio,64
+CE,2302800,Canindé,Radio,64
+CE,2303501,Cascavel,Fibra,64
+CE,2304103,Crateús,Radio,64
+CE,2306405,Itapipoca,Fibra,64
+CE,2307700,Maranguape,Fibra,64
+CE,2308708,Morada Nova,Radio,64
+CE,2309607,Pacajus,Fibra,64
+CE,2309706,Pacatuba,Fibra,64
+CE,2313401,Tianguá,Radio,64
+RN,2402600,Ceará-Mirim,Radio,64
+PB,2516201,Sousa,Radio,64
+PE,2601102,Araripina,Fibra,64
+PE,2601706,Belo Jardim,Fibra,64
+PE,2601904,Bezerros,Fibra,64
+PE,2605202,Escada,Radio,64
+PE,2606200,Goiana,Fibra,64
+PE,2606408,Gravatá,Fibra,64
+PE,2606804,Igarassu,Fibra,64
+PE,2609402,Moreno,Fibra,64
+PE,2609907,Ouricuri,Fibra,64
+PE,2610004,Palmares,Radio,64
+PE,2610905,Pesqueira,Fibra,64
+AL,2706307,Palmeira dos Índios,Fibra,64
+AL,2707701,Rio Largo,Fibra,64
+AL,2708600,São Miguel dos Campos,Fibra,64
+SE,2804805,Nossa Senhora do Socorro,Fibra,64
+BA,2903904,Bom Jesus da Lapa,Radio,64
+BA,2904605,Brumado,Fibra,64
+BA,2906006,Campo Formoso,Fibra,64
+BA,2907202,Casa Nova,Radio,64
+BA,2910057,Dias d'Ávila,Fibra,64
+BA,2914000,Ipirá,Radio,64
+BA,2914604,Irecê,Radio,64
+BA,2914703,Itaberaba,Radio,64
+BA,2928604,Santo Amaro,Fibra,64
+BA,2932903,Valença,Fibra,64
+MG,3135100,Janaúba,Radio,64
+MG,3170404,Unaí,Radio,64
+RJ,3302270,Japeri,Fibra,64
+RJ,3305505,Saquarema,Fibra,64
